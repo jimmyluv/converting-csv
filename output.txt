@@ -1,0 +1,1152 @@
+movie year certificate genre.1 genre.2 genre.3 imdb_rati nmetascore time_min uvote
+Aguirre, de‐1972 '‐ Action  Adventur e Biograph y 7.8 '‐ 95 min 58519
+The Gener a‐1926 '‐ Action  Adventur e Comedy 8.1 ' ‐ 67 min 92992
+Kakushi‐to‐1958 '‐ Action  Adventur e Drama 8.1 89 139  min 40060
+The Magni ‐1960 '‐ Action  Adventur e Drama 7.7 74 128  min 97247
+Sherlock Jr‐1924 '‐ Action  Comedy  Romance 8.2 ' ‐ 45 min 51515
+Knockin' on‐1997 '‐ Action  Crime  Comedy 7.8 ' ‐ 87 min 31665
+Key Largo ‐1948 '‐ Action  Crime  Drama 7.7 ' ‐ 100 min 41963
+Scarface ‐1932 '‐ Action  Crime  Drama 7.7 87 93  min 28811
+Badlands ‐1973 '‐ Action  Crime  Drama 7.7 93 94  min 74643
+Chugyeokj a‐2008 '‐ Action  Crime  Drama 7.8 64 125  min 68350
+White Hea‐1949 '‐ Action  Crime  Drama 8.1 ' ‐ 114 min 33911
+Tropa de E‐2010 '‐ Action  Crime  Drama 8 71 115  min 84267
+Seppuku ‐1962 '‐ Action  Drama  Mystery 8.6 85 133  min 59464
+Gongdong  ‐2000 '‐ Action  Drama  Thriller 7.7 58 110  min 31720
+Nefes: Vata‐2009 '‐ Action  Drama  Thriller 8 ' ‐ 128 min 34237
+Sullivan's T‐1941 '‐ Adventure  Comedy  Drama 7.9 ' ‐ 90 min 27133
+The Gold R‐1925 '‐ Adventure  Comedy  Drama 8.1 ' ‐ 95 min 112918
+Fitzcarrald o‐1982 '‐ Adventure  Drama ' ‐ 8'‐ 158 min 36109
+Stagecoac h‐1939 '‐ Adventure  Drama  Western 7.8 93 96  min 50670
+The Treas u‐1948 '‐ Adventure  Drama  Western 8.2 98 126  min 126613
+King Kong ‐1933 '‐ Adventure  Horror  Sci‐Fi 7.9 90 100  min 87193
+In Cold Blo‐1967 '‐ Biography  Crime  Drama 7.9 89 134  min 27415
+Zerkalo ‐1975 '‐ Biography  Drama ' ‐ 8 80 107  min 48449
+The Messa ‐1976 '‐ Biography  Drama  History 8.1 ' ‐ 177 min 48585
+Inherit the ‐1960 '‐ Biography  Drama  History 8.1 75 128  min 31098
+Ayla: The D‐2017 '‐ Biography  Drama  History 8.3 ' ‐ 125 min 41081
+La passion ‐1928 '‐ Biography  Drama  History 8.2 98 110  min 56532
+Andrei Rub‐1966 '‐ Biography  Drama  History 8.1 ' ‐ 205 min 54716
+Bringing Up‐1938 '‐ Comedy ' ‐ '‐ 7.8 91 102  min 63079
+Le charme ‐1972 '‐ Comedy ' ‐ '‐ 7.8 93 102  min 44340
+Zelig ‐1983 '‐ Comedy ' ‐ '‐ 7.7 '‐ 79 min 42803
+Life of Bria‐1979 '‐ Comedy ' ‐ '‐ 87 7 9 4  min 405308
+The Odd Co‐1968 '‐ Comedy ' ‐ '‐ 7.6 86 105  min 35879
+Dom za ves‐1988 '‐ Comedy  Crime  Drama 8.1 ' ‐ 142 min 31451
+Down by La‐1986 '‐ Comedy  Crime  Drama 7.7 75 107  min 52746
+The Thin M‐1934 '‐ Comedy  Crime  Mystery 7.9 86 91  min 30931
+Arsenic and‐1944 '‐ Comedy  Crime  Thriller 7.9 ' ‐ 118 min 72248
+Perfetti sco‐2016 '‐ Comedy  Drama ' ‐ 7.7 '‐ 96 min 67274
+La règle du‐1939 '‐ Comedy  Drama ' ‐ 7.9 98 110  min 29876
+Vizontele ‐2001 '‐ Comedy  Drama ' ‐ 8'‐ 110 min 37405
+Amarcord ‐1973 '‐ Comedy  Drama ' ‐ 7.9 '‐ 123 min 44650
+Naked ‐1993 '‐ Comedy  Drama ' ‐ 7.7 85 131  min 40951
+Crimes and‐1989 '‐ Comedy  Drama ' ‐ 7.8 77 104  min 58969
+Being Ther‐1979 '‐ Comedy  Drama ' ‐ 8 83 130  min 74191
+Hannah an‐1986 '‐ Comedy  Drama ' ‐ 7.8 90 107  min 72856
+Guess Who‐1967 '‐ Comedy  Drama ' ‐ 7.8 63 108  min 46471Miracle on‐1947 '‐ Comedy  Drama  Family 7.9 88 96  min 50982
+The Kid ‐1921 '‐ Comedy  Drama  Family 8.3 ' ‐ 68 min 128185
+Harvey ‐1950 '‐ Comedy  Drama  Fantasy 7.9 ' ‐ 104 min 56489
+Undergro u‐1995 '‐ Comedy  Drama  Fantasy 8.1 79 170  min 59303
+Sabrina ‐1954 '‐ Comedy  Drama  Romance 7.6 72 113  min 66792
+Harold and‐1971 '‐ Comedy  Drama  Romance 7.9 62 91  min 78989
+Yeopgijeo g‐2001 '‐ Comedy  Drama  Romance 8 ' ‐ 137 min 48995
+Modern Tim‐1936 '‐ Comedy  Drama  Romance 8.5 96 87  min 245895
+The Shop A‐1940 '‐ Comedy  Drama  Romance 8 96 99  min 35080
+His Girl Frid‐1940 '‐ Comedy  Drama  Romance 7.8 ' ‐ 92 min 60309
+The Quiet ‐1952 '‐ Comedy  Drama  Romance 7.7 85 129  min 39897
+You Can't T‐1938 '‐ Comedy  Drama  Romance 7.8 ' ‐ 126 min 26520
+Manhatta n‐1979 '‐ Comedy  Drama  Romance 7.8 83 96  min 142165
+Her Sey Ço‐1998 '‐ Comedy  Drama  Thriller 8.1 ' ‐ 107 min 26097
+Stalag 17‐1953 '‐ Comedy  Drama  War 8 84 120  min 56746
+The Great ‐1940 '‐ Comedy  Drama  War 8.4 ' ‐ 125 min 226786
+The Circus ‐1928 '‐ Comedy  Family  Romance 8.1 90 72  min 34552
+This Is Spin‐1984 '‐ Comedy  Music ' ‐ 7.9 92 82  min 141942
+A Night at t‐1935 '‐ Comedy  Music  Musical 7.8 ' ‐ 96 min 33516
+Duck Soup ‐1933 '‐ Comedy  Musical ' ‐ 7.8 93 69  min 60965
+The Philad e‐1940 '‐ Comedy  Romance ' ‐ 7.9 96 112  min 70827
+It Happen e‐1934 '‐ Comedy  Romance ' ‐ 8.1 87 105  min 106112
+To Be or No‐1942 '‐ Comedy  Romance  War 8.2 86 99  min 38963
+Love and D‐1975 '‐ Comedy  War ' ‐ 7.7 89 85  min 39338
+Le Samour ‐1967 '‐ Crime  Drama ' ‐ 8'‐ 105 min 53011
+The Aspha ‐1950 '‐ Crime  Drama  Film‐Noir 7.8 85 112  min 28174
+Mildred Pie‐1945 '‐ Crime  Drama  Film‐Noir 7.9 88 111  min 26822
+The Killing ‐1956 '‐ Crime  Drama  Film‐Noir 7.9 91 84  min 91716
+Out of the ‐1947 '‐ Crime  Drama  Film‐Noir 8 85 97  min 38501
+Double Ind‐1944 '‐ Crime  Drama  Film‐Noir 8.3 95 107  min 159508
+Les diaboli ‐1955 '‐ Crime  Drama  Horror 8.1 ' ‐ 117 min 66937
+Gaslight ‐1944 '‐ Crime  Drama  Mystery 7.8 78 114  min 30658
+Tengoku to‐1963 '‐ Crime  Drama  Mystery 8.4 90 143  min 46804
+Hana‐bi ‐1997 '‐ Crime  Drama  Romance 7.7 ' ‐ 103 min 31463
+Eskiya ‐1996 '‐ Crime  Drama  Thriller 8.1 ' ‐ 128 min 70598
+Du rififi che‐1955 '‐ Crime  Drama  Thriller 8.1 97 118  min 35316
+Ascenseur  ‐1958 '‐ Crime  Drama  Thriller 7.9 94 91  min 26700
+Bir Zamanl ‐2011 '‐ Crime  Drama  Thriller 7.8 82 157  min 47451
+Le cercle ro‐1970 '‐ Crime  Drama  Thriller 7.9 92 140  min 26268
+Miller's Cro‐1990 '‐ Crime  Drama  Thriller 7.7 66 115  min 137367
+The Malte s‐1941 '‐ Crime  Film‐Noir Mystery 8 97 100  min 161026
+The Big Sle‐1946 '‐ Crime  Film‐Noir Mystery 7.9 86 114  min 87340
+The Big He‐1953 '‐ Crime  Film‐Noir Thriller 7.9 ' ‐ 89 min 27445
+M ‐ Eine St‐1931 '‐ Crime  Mystery  Thriller 8.3 ' ‐ 117 min 160286
+Black Narc ‐1947 '‐ Drama ' ‐ '‐ 7.7 86 101  min 25792
+Vivre sa vie‐1962 '‐ Drama ' ‐ '‐ 7.8 '‐ 80 min 33086
+La Strada ‐1954 '‐ Drama ' ‐ '‐ 8'‐ 108 min 64326Nattvards g‐1963 '‐ Drama ' ‐ '‐ 8'‐ 81 min 25730
+Såsom i en‐1961 '‐ Drama ' ‐ '‐ 88 4 9 0  min 26053
+Miracle in ‐2019 '‐ Drama ' ‐ '‐ 8.2 '‐ 132 min 50772
+Nostalgia ‐1983 '‐ Drama ' ‐ '‐ 8'‐ 125 min 28089
+All About E‐1950 '‐ Drama ' ‐ '‐ 8.2 98 138  min 132858
+Ondskan ‐2003 '‐ Drama ' ‐ '‐ 7.7 61 113  min 39745
+8½ ‐1963 '‐ Drama ' ‐ '‐ 8 93 138  min 120212
+The Grape s‐1940 '‐ Drama ' ‐ '‐ 8.1 96 129  min 95251
+Detachme n‐2011 '‐ Drama ' ‐ '‐ 7.7 52 98  min 88832
+Umberto D‐1952 '‐ Drama ' ‐ '‐ 8.2 92 89  min 26574
+Kis Uykusu ‐2014 '‐ Drama ' ‐ '‐ 8.1 88 196  min 52685
+Soshite chi‐2013 '‐ Drama ' ‐ '‐ 7.8 73 121  min 26019
+Ta'm e guil‐1997 '‐ Drama ' ‐ '‐ 7.7 80 95  min 32607
+Vozvrashc h‐2003 '‐ Drama ' ‐ '‐ 7.9 82 110  min 46177
+Auf der and‐2007 '‐ Drama ' ‐ '‐ 7.7 85 122  min 32605
+Le notti di ‐1957 '‐ Drama ' ‐ '‐ 8.1 '‐ 110 min 49996
+4 luni, 3 sa‐2007 '‐ Drama ' ‐ '‐ 7.9 97 113  min 61375
+La grande b‐2013 '‐ Drama ' ‐ '‐ 7.7 86 141  min 93075
+Babam ve O‐2005 '‐ Drama  Family ' ‐ 8.2 '‐ 112 min 87579
+El ángel ex‐1962 '‐ Drama  Fantasy ' ‐ 8'‐ 95 min 33860
+Yume ‐1990 '‐ Drama  Fantasy ' ‐ 7.7 '‐ 119 min 27285
+The Man fr‐2007 '‐ Drama  Fantasy  Mystery 7.9 ' ‐ 87 min 190758
+La belle et ‐1946 '‐ Drama  Fantasy  Romance 7.9 92 96  min 27011
+Sunset Blvd‐1950 '‐ Drama  Film‐Noir '‐ 8.4 '‐ 110 min 224854
+Ace in the ‐1951 '‐ Drama  Film‐Noir '‐ 8.1 72 111  min 37013
+The Lost W‐1945 '‐ Drama  Film‐Noir '‐ 7.9 '‐ 101 min 38135
+In a Lonel y‐1950 '‐ Drama  Film‐Noir Mystery 7.9 ' ‐ 94 min 32670
+Laura ‐1944 '‐ Drama  Film‐Noir Mystery 7.9 ' ‐ 88 min 48600
+Rebecca ‐1940 '‐ Drama  Film‐Noir Mystery 8.1 86 130  min 139502
+Il gattopar d‐1963 '‐ Drama  History ' ‐ 8 100 186  min 26977
+Bronenos e‐1925 '‐ Drama  History  Thriller 7.9 97 75  min 59021
+Quo vadis, ‐2020 '‐ Drama  History  War 8 97 101  min 35166
+Freaks ‐1932 '‐ Drama  Horror ' ‐ 7.8 80 64  min 47862
+Invasion of‐1956 '‐ Drama  Horror  Sci‐Fi 7.7 92 80  min 51646
+Bride of Fra‐1935 '‐ Drama  Horror  Sci‐Fi 7.8 95 75  min 50103
+The Broke n‐2012 '‐ Drama  Music  Romance 7.7 70 111  min 41837
+The Red Sh‐1948 '‐ Drama  Music  Romance 8.1 ' ‐ 135 min 36359
+Les parapl u‐1964 '‐ Drama  Musical  Romance 7.8 86 91  min 28733
+Darbareye  ‐2009 '‐ Drama  Mystery ' ‐ 7.9 87 119  min 54536
+Jules et Jim‐1962 '‐ Drama  Romance ' ‐ 7.7 97 105  min 42651
+Days of He‐1978 '‐ Drama  Romance ' ‐ 7.8 93 94  min 59508
+Hiroshima  ‐1959 '‐ Drama  Romance ' ‐ 7.9 '‐ 90 min 33516
+Hoje Eu Qu‐2014 '‐ Drama  Romance ' ‐ 7.9 71 96  min 26167
+Chun gwon‐1997 '‐ Drama  Romance ' ‐ 7.7 70 96  min 30992
+Sunrise: A ‐1927 '‐ Drama  Romance ' ‐ 8.1 95 94  min 51861
+Yi yi ‐2000 '‐ Drama  Romance ' ‐ 8.1 94 173  min 25740
+A Woman ‐1974 '‐ Drama  Romance ' ‐ 8.1 88 155  min 26327Da hong de‐1991 '‐ Drama  Romance ' ‐ 8.1 '‐ 125 min 33592
+The Best Ye‐1946 '‐ Drama  Romance  War 8.1 93 170  min 66268
+From Here ‐1953 '‐ Drama  Romance  War 7.6 85 118  min 48241
+Metropoli s‐1927 '‐ Drama  Sci‐Fi '‐ 8.3 98 153  min 176755
+Kokuhaku ‐2010 '‐ Drama  Thriller ' ‐ 7.7 '‐ 106 min 40208
+Persona ‐1966 '‐ Drama  Thriller ' ‐ 8.1 86 85  min 121954
+Roma città‐1945 '‐ Drama  Thriller  War 8 ' ‐ 103 min 27350
+La battagli a‐1966 '‐ Drama  War ' ‐ 8.1 96 121  min 61702
+Beasts of N‐2015 '‐ Drama  War ' ‐ 7.7 79 137  min 83259
+Mandariin i‐2013 '‐ Drama  War ' ‐ 8.1 73 87  min 47166
+La Grande ‐1937 '‐ Drama  War ' ‐ 8.1 '‐ 113 min 37407
+Red River ‐1948 '‐ Drama  Western ' ‐ 7.8 96 133  min 32264
+Rio Bravo ‐1959 '‐ Drama  Western ' ‐ 8 93 141  min 64197
+Nosferatu ‐1922 '‐ Fantasy  Horror ' ‐ 7.9 '‐ 94 min 99789
+Shadow of ‐1943 '‐ Film‐Noir Thriller ' ‐ 7.8 94 108  min 67088
+Das Cabin e‐1920 '‐ Horror  Mystery  Thriller 8 ' ‐ 76 min 65840
+The Invisib ‐1933 '‐ Horror  Sci‐Fi '‐ 7.6 87 71  min 37017
+The Lady V‐1938 '‐ Mystery  Thriller ' ‐ 7.8 98 96  min 54188
+Sleuth ‐1972 '‐ Mystery  Thriller ' ‐ 8'‐ 138 min 48514
+The Girl wi‐2011 (Banned) Crime  Drama  Mystery 7.8 71 158  min 470471
+Hamilton ‐2020 12+ Biography  Drama  History 8.4 89 160  min 98734
+The Mitch e‐2021 13 Animation  Adventur e Comedy 7.6 81 114  min 113085
+The Pianis t‐2002 13 Biography  Drama  Music 8.5 85 150  min 844733
+Moneyball ‐2011 13 Biography  Drama  Sport 7.6 87 133  min 432844
+Drishyam  2‐2021 13 Crime  Drama  Thriller 8.4 ' ‐ 152 min 38605
+The Other s‐2001 13 Horror  Mystery  Thriller 7.6 74 101  min 373286
+Reservoir  D‐1992 15+ Crime  Thriller ' ‐ 8.3 81 99  min 1032072
+Get Out (I) (2017) 15+ Horror  Mystery  Thriller 7.7 85 104  min 629026
+Koe no kat‐2016 16 Animation  Drama ' ‐ 8.1 78 130  min 86431
+The Irishm ‐2019 16 Biography  Crime  Drama 7.8 94 209  min 397730
+Druk ‐2020 16 Comedy  Drama ' ‐ 7.7 79 117  min 168128
+About Time(I) (2013) 16 Comedy  Drama  Fantasy 7.8 55 123  min 360084
+Contratie m‐2016 16 Crime  Drama  Mystery 8 ' ‐ 106 min 180542
+Roma ‐2018 16 Drama ' ‐ '‐ 7.7 96 135  min 162056
+Before Sun‐1995 16 Drama  Romance ' ‐ 8.1 77 101  min 315852
+True Grit ‐2010 16 Drama  Western ' ‐ 7.6 80 110  min 344442
+Zack Snyd e‐2021 18 Action  Adventur e Fantasy 8 54 242  min 406179
+G.O.R.A. ‐2004 18 Adventure  Comedy  Sci‐Fi 8 ' ‐ 127 min 64079
+Captain Fa‐2016 18 Comedy  Drama ' ‐ 7.8 72 118  min 223116
+50/50 ‐2011 18 Comedy  Drama  Romance 7.6 72 100  min 334359
+Relatos sal‐2014 18 Comedy  Drama  Thriller 8.1 77 122  min 202643
+Inside Man‐2006 18 Crime  Drama  Mystery 7.6 76 129  min 379531
+No Countr y‐2007 18 Crime  Drama  Thriller 8.2 92 122  min 989219
+Boogie Nig‐1997 18 Drama ' ‐ '‐ 7.9 85 155  min 270415
+The Trial of‐2020 18 Drama  History  Thriller 7.7 76 129  min 181645
+Sound of M‐2019 18 Drama  Music ' ‐ 7.7 82 120  min 133817
+Incendies ‐2010 18 Drama  Mystery ' ‐ 8.3 80 131  min 181369Portrait de‐2019 18 Drama  Romance ' ‐ 8.1 95 122  min 96455
+Ajeossi ‐2010 7 Action  Crime  Drama 7.7 ' ‐ 119 min 71313
+Klaus ‐2019 7 Animation  Adventur e Comedy 8.2 65 96  min 163190
+Dogville ‐2003 7 Crime  Drama ' ‐ 8 59 178  min 151561
+Jagten ‐2012 7 Drama ' ‐ '‐ 8.3 77 115  min 336654
+Jodaeiye N‐2011 7 Drama ' ‐ '‐ 8.3 95 123  min 247678
+Raiders of ‐1981 A Action  Adventur e'‐ 8.4 85 115  min 977337
+Kingsman:  ‐2014 A Action  Adventur e Comedy 7.7 60 129  min 678282
+Everything ‐2022 A Action  Adventur e Comedy 7.9 81 139  min 368611
+Celda 211 ‐2009 A Action  Adventur e Crime 7.6 ' ‐ 113 min 68750
+End of Wat‐2012 A Action  Adventur e Crime 7.6 68 109  min 254126
+The Reven a‐2015 A Action  Adventur e Drama 8 76 156  min 818657
+Apocalypt o‐2006 A Action  Adventur e Drama 7.8 68 139  min 317724
+Predator ‐1987 A Action  Adventur e Horror 7.8 47 107  min 430456
+Die Hard w‐1995 A Action  Adventur e Thriller 7.6 58 128  min 393582
+First Blood ‐1982 A Action  Adventur e Thriller 7.7 61 93  min 259149
+Goldfinger ‐1964 A Action  Adventur e Thriller 7.7 87 110  min 194008
+The Wild B‐1969 A Action  Adventur e Western 7.9 98 145  min 86483
+Bonnie and‐1967 A Action  Biograph y Crime 7.7 86 111  min 115439
+Gangs of W‐2012 A Action  Comedy  Crime 8.2 89 321  min 98484
+Lock, Stock‐1998 A Action  Comedy  Crime 8.2 66 107  min 589920
+The Gentl e‐2019 A Action  Comedy  Crime 7.8 51 113  min 352349
+Hot Fuzz ‐2007 A Action  Comedy  Mystery 7.8 81 121  min 512766
+The Frenc h‐1971 A Action  Crime  Drama 7.7 94 104  min 125968
+Léon ‐1994 A Action  Crime  Drama 8.5 64 110  min 1176299
+Enter the D‐1973 A Action  Crime  Drama 7.6 83 102  min 106658
+Sicario ‐2015 A Action  Crime  Drama 7.6 82 121  min 440251
+3:10 to Yum‐2007 A Action  Crime  Drama 7.7 76 122  min 317771
+Heat ‐1995 A Action  Crime  Drama 8.3 76 170  min 665548
+Kill Bill: Vo‐2003 A Action  Crime  Drama 8.2 69 111  min 1129347
+Training Da‐2001 A Action  Crime  Drama 7.7 69 122  min 445356
+Minority R‐2002 A Action  Crime  Mystery 7.6 80 145  min 560750
+Lat sau san‐1992 A Action  Crime  Thriller 7.7 ' ‐ 128 min 51687
+Taken (I)  (2008) A Action  Crime  Thriller 7.8 51 90  min 610444
+Serbuan m‐2014 A Action  Crime  Thriller 7.9 71 150  min 125758
+Dirty Harry‐1971 A Action  Crime  Thriller 7.7 87 102  min 160038
+Serbuan m‐2011 A Action  Crime  Thriller 7.6 73 101  min 208089
+Kill Bill: Vo‐2004 A Action  Crime  Thriller 8 83 137  min 766864
+300‐2006 A Action  Drama ' ‐ 7.6 52 117  min 830268
+Drive (I)  (2011) A Action  Drama ' ‐ 7.8 78 100  min 655090
+Black Hawk‐2001 A Action  Drama  History 7.7 74 144  min 403143
+Oldeuboi ‐2003 A Action  Drama  Mystery 8.4 77 101  min 588758
+Watchme n‐2009 A Action  Drama  Mystery 7.6 56 162  min 558986
+Logan ‐2017 A Action  Drama  Sci‐Fi 8.1 77 137  min 776771
+Children of‐2006 A Action  Drama  Sci‐Fi 7.9 84 109  min 507255
+Sarfarosh ‐1999 A Action  Drama  Thriller 8.1 ' ‐ 174 min 26114
+Im Weste n‐2022 A Action  Drama  War 7.8 76 148  min 169726Per un pug‐1964 A Action  Drama  Western 7.9 65 99  min 221378
+The Bourn e‐2004 A Action  Mystery  Thriller 7.7 73 108  min 469764
+The Matri x‐1999 A Action  Sci‐Fi '‐ 8.7 73 136  min 1935942
+Terminato ‐1991 A Action  Sci‐Fi '‐ 8.6 75 137  min 1112025
+The Termi n‐1984 A Action  Sci‐Fi '‐ 8.1 84 107  min 876975
+District 9‐2009 A Action  Sci‐Fi Thriller 7.9 81 112  min 689953
+The Boon d‐1999 A Action  Thriller ' ‐ 7.7 44 108  min 241966
+Die Hard ‐1988 A Action  Thriller ' ‐ 8.2 72 132  min 894461
+Spartacus ‐1960 A Adventure  Biograph y Drama 7.9 87 197  min 137207
+Almost Fam‐2000 A Adventure  Comedy  Drama 7.9 90 122  min 281327
+Blood Diam‐2006 A Adventure  Drama  Thriller 8 64 143  min 558710
+Inglouriou s‐2009 A Adventure  Drama  War 8.3 69 153  min 1472405
+Jaws ‐1975 A Adventure  Thriller ' ‐ 8.1 87 124  min 616669
+Il buono, il ‐1966 A Adventure  Western ' ‐ 8.8 90 161  min 770110
+Jûbê ninpû‐1993 A Animation  Action  Adventur e 7.8 '‐ 94 min 38390
+South Park‐1999 A Animation  Comedy  Fantasy 7.7 73 81  min 208064
+Pâfekuto b‐1997 A Animation  Crime  Drama 8 67 81  min 81091
+The Wolf o‐2013 A Biography  Comedy  Crime 8.2 75 180  min 1439947
+The Big Sho‐2015 A Biography  Comedy  Drama 7.8 81 130  min 441008
+American  G‐2007 A Biography  Crime  Drama 7.8 76 157  min 432747
+Catch Me I‐2002 A Biography  Crime  Drama 8.1 75 141  min 1004594
+Serpico ‐1973 A Biography  Crime  Drama 7.7 81 130  min 126411
+Changelin g‐2008 A Biography  Crime  Drama 7.8 63 141  min 258550
+Donnie Bra‐1997 A Biography  Crime  Drama 7.7 76 127  min 314111
+Spotlight (I)  (2015) A Biography  Crime  Drama 8.1 93 129  min 477150
+GoodFella s‐1990 A Biography  Crime  Drama 8.7 91 145  min 1177268
+The Last Ki‐2006 A Biography  Drama  History 7.6 74 123  min 189309
+The Killing ‐1984 A Biography  Drama  History 7.8 76 141  min 56711
+12 Years a ‐2013 A Biography  Drama  History 8.1 96 134  min 709759
+Hacksaw R‐2016 A Biography  Drama  History 8.1 71 139  min 539792
+Bravehear t‐1995 A Biography  Drama  History 8.4 68 178  min 1047623
+Schindler' s‐1993 A Biography  Drama  History 9 95 195  min 1371048
+Ray (I)  (2004) A Biography  Drama  Music 7.7 73 152  min 150661
+Raging Bul‐1980 A Biography  Drama  Sport 8.2 89 129  min 359239
+Argo ‐2012 A Biography  Drama  Thriller 7.7 86 120  min 620615
+Superbad ‐2007 A Comedy ' ‐ '‐ 7.6 76 113  min 592771
+Young Fran‐1974 A Comedy ' ‐ '‐ 8 83 106  min 161513
+Three Billb ‐2017 A Comedy  Crime  Drama 8.1 88 115  min 518909
+The Bansh e‐2022 A Comedy  Drama ' ‐ 7.7 87 114  min 166609
+Once Upon‐2019 A Comedy  Drama ' ‐ 7.6 83 161  min 762609
+La dolce vit‐1960 A Comedy  Drama ' ‐ 8 95 174  min 74857
+Birdman or‐2014 A Comedy  Drama ' ‐ 7.7 87 119  min 640065
+The Royal T‐2001 A Comedy  Drama ' ‐ 7.6 76 110  min 298127
+Moonrise  K‐2012 A Comedy  Drama  Family 7.8 84 94  min 354591
+CODA ‐2021 A Comedy  Drama  Music 8 72 111  min 141061
+La La Land ‐2016 A Comedy  Drama  Music 8 94 128  min 605175
+Dev.D ‐2009 A Comedy  Drama  Romance 7.9 ' ‐ 144 min 31200The Gradu a‐1967 A Comedy  Drama  Romance 8 83 106  min 277628
+Silver Linin ‐2012 A Comedy  Drama  Romance 7.7 81 122  min 717213
+As Good as‐1997 A Comedy  Drama  Romance 7.7 67 139  min 304501
+Barton Fink‐1991 A Comedy  Drama  Thriller 7.6 69 116  min 124461
+Evil Dead I‐1987 A Comedy  Horror ' ‐ 7.7 72 84  min 168828
+Annie Hall ‐1977 A Comedy  Romance ' ‐ 89 2 9 3  min 268646
+Dr. Strang e‐1964 A Comedy  War ' ‐ 8.4 97 95  min 496273
+Blazing Sad‐1974 A Comedy  Western ' ‐ 7.7 73 93  min 142901
+This Is Engl‐2006 A Crime  Drama ' ‐ 7.7 86 101  min 124266
+Pulp Fictio ‐1994 A Crime  Drama ' ‐ 8.9 94 154  min 2084130
+The Godfa t‐1972 A Crime  Drama ' ‐ 9.2 100 175  min 1885483
+Cool Hand ‐1967 A Crime  Drama ' ‐ 8.1 92 127  min 179790
+Un prophè ‐2009 A Crime  Drama ' ‐ 7.8 90 155  min 99733
+Once Were‐1994 A Crime  Drama ' ‐ 7.9 77 102  min 35162
+Taxi Drive r‐1976 A Crime  Drama ' ‐ 8.2 94 114  min 849581
+Casino ‐1995 A Crime  Drama ' ‐ 8.2 73 178  min 528628
+Scarface ‐1983 A Crime  Drama ' ‐ 8.3 65 170  min 854833
+Once Upon‐1984 A Crime  Drama ' ‐ 8.3 75 229  min 356770
+The Godfa t‐1974 A Crime  Drama ' ‐ 9 90 202  min 1286766
+Boyz n the ‐1991 A Crime  Drama ' ‐ 7.8 76 112  min 144462
+Cidade de ‐2002 A Crime  Drama ' ‐ 8.6 79 130  min 764365
+The Night o‐1955 A Crime  Drama  Film‐Noir 8 97 92  min 91493
+Strangers  o‐1951 A Crime  Drama  Film‐Noir 7.9 88 101  min 135892
+American  P‐2000 A Crime  Drama  Horror 7.6 64 102  min 641821
+Rope ‐1948 A Crime  Drama  Mystery 7.9 73 80  min 146537
+Jai Bhim ‐2021 A Crime  Drama  Mystery 8.8 ' ‐ 164 min 204822
+Se7en ‐1995 A Crime  Drama  Mystery 8.6 65 127  min 1676057
+Gone Baby‐2007 A Crime  Drama  Mystery 7.6 72 114  min 277679
+The Usual S‐1995 A Crime  Drama  Mystery 8.5 77 106  min 1095872
+Mississipp i‐1988 A Crime  Drama  Mystery 7.8 65 128  min 103321
+The Hatef u‐2015 A Crime  Drama  Mystery 7.8 68 168  min 615044
+Primal Fea‐1996 A Crime  Drama  Mystery 7.7 47 129  min 227597
+Prisoners ‐2013 A Crime  Drama  Mystery 8.1 70 153  min 733072
+L.A. Confi d‐1997 A Crime  Drama  Mystery 8.2 91 138  min 588702
+Blue Velve t‐1986 A Crime  Drama  Mystery 7.7 76 120  min 203897
+Mystic Rive‐2003 A Crime  Drama  Mystery 7.9 84 138  min 463719
+True Rom a‐1993 A Crime  Drama  Romance 7.9 59 119  min 231148
+Road to Pe‐2002 A Crime  Drama  Thriller 7.7 72 117  min 273558
+The Silenc e‐1991 A Crime  Drama  Thriller 8.6 86 118  min 1450892
+The Depar t‐2006 A Crime  Drama  Thriller 8.5 85 151  min 1341400
+The Day of‐1973 A Crime  Drama  Thriller 7.8 80 143  min 42082
+Manbiki ka‐2018 A Crime  Drama  Thriller 7.9 93 121  min 79431
+Nightcraw l‐2014 A Crime  Drama  Thriller 7.8 76 117  min 561064
+Joker (I)  (2019) A Crime  Drama  Thriller 8.4 59 122  min 1323429
+Carlito's W‐1993 A Crime  Drama  Thriller 7.9 66 144  min 222342
+The Untou ‐1987 A Crime  Drama  Thriller 7.8 79 119  min 315744
+On the Wa‐1954 A Crime  Drama  Thriller 8.1 91 108  min 157225A Clockwo r‐1971 A Crime  Sci‐Fi '‐ 8.3 77 136  min 839879
+Dial M for ‐1954 A Crime  Thriller ' ‐ 8.2 75 105  min 178710
+Fargo ‐1996 A Crime  Thriller ' ‐ 8.1 86 98  min 686752
+Sin City ‐2005 A Crime  Thriller ' ‐ 8 74 124  min 775520
+The Whal e‐2022 A Drama ' ‐ '‐ 7.8 60 117  min 88073
+Who's Afra‐1966 A Drama ' ‐ '‐ 8 75 131  min 76790
+Masaan ‐2015 A Drama ' ‐ '‐ 8.1 '‐ 109 min 28901
+Jungfrukäl l‐1960 A Drama ' ‐ '‐ 8.1 '‐ 89 min 30114
+Capharna ü‐2018 A Drama ' ‐ '‐ 8.4 75 126  min 93070
+Viskningar  ‐1972 A Drama ' ‐ '‐ 8'‐ 91 min 35089
+One Flew O‐1975 A Drama ' ‐ '‐ 8.7 84 133  min 1018329
+Y tu mamá ‐2001 A Drama ' ‐ '‐ 7.7 89 106  min 124942
+Trainspott i‐1996 A Drama ' ‐ '‐ 8.1 83 93  min 695342
+Cat on a Ho‐1958 A Drama ' ‐ '‐ 7.9 84 108  min 50814
+Boyhood (I)  (2014) A Drama ' ‐ '‐ 7.9 100 165  min 358224
+The Shaws ‐1994 A Drama ' ‐ '‐ 9.3 82 142  min 2714258
+Requiem fo‐2000 A Drama ' ‐ '‐ 8.3 71 102  min 853305
+Fight Club ‐1999 A Drama ' ‐ '‐ 8.8 66 139  min 2157871
+Fanny och ‐1982 A Drama ' ‐ '‐ 8.1 100 188  min 65092
+There Will ‐2007 A Drama ' ‐ '‐ 8.2 93 158  min 595817
+Midnight C‐1969 A Drama ' ‐ '‐ 7.8 79 113  min 113641
+A Streetca r‐1951 A Drama ' ‐ '‐ 7.9 97 122  min 110115
+Det sjund e‐1957 A Drama  Fantasy ' ‐ 8.1 88 96  min 188091
+Tumbbad ‐2018 A Drama  Fantasy  Horror 8.2 ' ‐ 104 min 51648
+Pink Floyd :‐1982 A Drama  Fantasy  Music 8 47 95  min 82387
+The Thin R‐1998 A Drama  History  War 7.6 78 170  min 191133
+Rosemary' s‐1968 A Drama  Horror ' ‐ 8 96 137  min 221420
+The Shinin g‐1980 A Drama  Horror ' ‐ 8.4 66 146  min 1036746
+The Birds ‐1963 A Drama  Horror  Mystery 7.6 90 119  min 193359
+Frankenst e‐1931 A Drama  Horror  Sci‐Fi 7.8 91 70  min 74994
+The Fly ‐1986 A Drama  Horror  Sci‐Fi 7.6 79 96  min 188290
+What Ever ‐1962 A Drama  Horror  Thriller 8 75 134  min 58040
+Whiplash ‐2014 A Drama  Music ' ‐ 8.5 89 106  min 885801
+All That Jaz‐1979 A Drama  Music  Musical 7.8 72 123  min 32999
+Cabaret ‐1972 A Drama  Music  Musical 7.8 80 124  min 56561
+A Star Is Bo‐2018 A Drama  Music  Romance 7.6 88 136  min 392944
+Anatomy o‐1959 A Drama  Mystery ' ‐ 8 95 161  min 67790
+The Lives o‐2006 A Drama  Mystery  Thriller 8.4 89 137  min 393634
+Gone Girl ‐2014 A Drama  Mystery  Thriller 8.1 79 149  min 997934
+The Sixth S‐1999 A Drama  Mystery  Thriller 8.2 64 107  min 1002831
+Belle de jo‐1967 A Drama  Romance ' ‐ 7.7 '‐ 100 min 46098
+La vie d'Ad‐2013 A Drama  Romance ' ‐ 7.7 90 180  min 155658
+Before Sun‐2004 A Drama  Romance ' ‐ 8.1 90 80  min 270268
+The Bridg e‐1995 A Drama  Romance ' ‐ 7.6 69 135  min 83981
+The Noteb ‐2004 A Drama  Romance ' ‐ 7.8 53 123  min 582635
+Brokeback  ‐2005 A Drama  Romance ' ‐ 7.7 87 134  min 364273
+Her ‐2013 A Drama  Romance  Sci‐Fi 8 91 126  min 626986Ah‐ga‐ssi‐2016 A Drama  Romance  Thriller 8.1 84 145  min 153627
+Doctor Zhiv‐1965 A Drama  Romance  War 7.9 69 197  min 78669
+The Hustle ‐1961 A Drama  Sport ' ‐ 8 90 134  min 83612
+Cape Fear ‐1962 A Drama  Thriller ' ‐ 7.7 76 106  min 30097
+The Manc h‐1962 A Drama  Thriller ' ‐ 7.9 94 126  min 76802
+Black Swan‐2010 A Drama  Thriller ' ‐ 8 79 108  min 780239
+Amores pe‐2000 A Drama  Thriller ' ‐ 8.1 83 154  min 243764
+Gisaengch u‐2019 A Drama  Thriller ' ‐ 8.5 96 132  min 831059
+Misery ‐1990 A Drama  Thriller ' ‐ 7.8 75 107  min 217975
+Idi i smotri ‐1985 A Drama  Thriller  War 8.4 ' ‐ 142 min 83374
+Zwartboe k‐2006 A Drama  Thriller  War 7.7 71 145  min 78020
+Ivanovo de‐1962 A Drama  War ' ‐ 8'‐ 95 min 37662
+Judgment  a‐1961 A Drama  War ' ‐ 8.3 60 179  min 78911
+Paths of Gl‐1957 A Drama  War ' ‐ 8.4 90 88  min 200331
+Saving Priv‐1998 A Drama  War ' ‐ 8.6 91 169  min 1408594
+The Deer H‐1978 A Drama  War ' ‐ 8.1 86 183  min 343788
+Unforgive n‐1992 A Drama  Western ' ‐ 8.2 85 130  min 416923
+Django Unc‐2012 A Drama  Western ' ‐ 8.4 81 165  min 1578706
+Dark City ‐1998 A Fantasy  Mystery  Sci‐Fi 7.6 66 100  min 203344
+The Innoc e‐1961 A Horror ' ‐ '‐ 7.8 88 100  min 31342
+The Exorci s‐1973 A Horror ' ‐ '‐ 8.1 81 122  min 415751
+The Thing ‐1982 A Horror  Mystery  Sci‐Fi 8.2 57 109  min 432965
+Psycho ‐1960 A Horror  Mystery  Thriller 8.5 97 109  min 680049
+Saw ‐2004 A Horror  Mystery  Thriller 7.6 46 103  min 430049
+Night of th‐1968 A Horror  Thriller ' ‐ 7.8 89 96  min 132165
+Halloween ‐1978 A Horror  Thriller ' ‐ 7.7 87 91  min 285939
+Dawn of th‐1978 A Horror  Thriller ' ‐ 7.8 71 127  min 123333
+Vertigo ‐1958 A Mystery  Romance  Thriller 8.3 100 128  min 407340
+Twelve Mo‐1995 A Mystery  Sci‐Fi Thriller 8 74 129  min 625274
+Shutter Isla‐2010 A Mystery  Thriller ' ‐ 8.2 63 138  min 1340438
+Wait Until ‐1967 A Thriller ' ‐ '‐ 7.7 81 108  min 31699
+City Lights ‐1931 G Comedy  Drama  Romance 8.5 99 87  min 187012
+Singin' in th‐1952 G Comedy  Musical  Romance 8.3 99 103  min 246519
+Z ‐1969 M/PG Crime  Drama  Thriller 8.2 86 127  min 29637
+Ang‐ma‐re‐2010 Not  Rated Action  Crime  Drama 7.8 67 144  min 134837
+La montañ ‐1973 Not  Rated Adventure  Drama  Fantasy 7.8 76 114  min 44652
+Shin seiki E‐1997 Not  Rated Animation  Action  Drama 8.1 ' ‐ 87 min 57349
+Kaze tachi n‐2013 Not  Rated Animation  Biograph y Drama 7.7 83 126  min 88879
+Sennen joy‐2001 Not  Rated Animation  Drama  Fantasy 7.8 70 87  min 29246
+Il postino ‐1994 Not  Rated Biography  Comedy  Drama 7.8 81 108  min 37355
+Shine ‐1996 Not  Rated Biography  Drama  Music 7.6 87 105  min 55014
+C.R.A.Z.Y. ‐2005 Not  Rated Comedy  Drama ' ‐ 7.9 81 129  min 33340
+Happiness ‐1998 Not  Rated Comedy  Drama ' ‐ 7.7 81 134  min 71604
+The Mupp e‐1992 Not  Rated Comedy  Drama  Family 7.7 64 85  min 63747
+La haine ‐1995 Not  Rated Crime  Drama ' ‐ 8.1 '‐ 98 min 178374
+Les yeux sa‐1960 Not  Rated Drama  Horror ' ‐ 7.6 90 90  min 32844
+La leggend ‐1998 Not  Rated Drama  Music  Romance 8 58 169  min 65934Spoorloos ‐1988 Not  Rated Mystery  Thriller ' ‐ 7.7 '‐ 107 min 40429
+The Adven ‐1938 PG Action  Adventur e Romance 7.9 97 102  min 52324
+To Have an‐1944 PG Adventure  Comedy  Film‐Noir 7.8 90 100  min 35913
+Batman: M‐1993 PG Animation  Action  Adventur e 7.8 65 76  min 52834
+Song of the‐2014 PG Animation  Adventur e Drama 8 85 93  min 59913
+Le Petit Pri‐2015 PG Animation  Adventur e Drama 7.7 70 108  min 63563
+Guillermo  d‐2022 PG Animation  Drama  Family 7.6 79 117  min 88101
+October Sk‐1999 PG Biography  Drama  Family 7.8 71 108  min 93555
+Flipped (I)  (2010) PG Comedy  Drama  Romance 7.7 45 90  min 92383
+It's a Won d‐1946 PG Drama  Family  Fantasy 8.6 89 130  min 468089
+Bacheha‐Y‐1997 PG Drama  Family  Sport 8.2 77 89  min 75872
+Serenity ‐2005 PG‐13 Action  Adventur e Sci‐Fi 7.8 74 119  min 298829
+Les triplet t‐2003 PG‐13 Animation  Adventur e Comedy 7.7 91 80  min 55392
+Persepolis ‐2007 PG‐13 Animation  Biograph y Drama 8 90 96  min 96395
+Ma vie de C‐2016 PG‐13 Animation  Comedy  Drama 7.7 85 66  min 26611
+Philomena ‐2013 PG‐13 Biography  Comedy  Drama 7.6 77 98  min 101390
+Le scapha n‐2007 PG‐13 Biography  Drama ' ‐ 8 92 112  min 108553
+Dark Wate ‐2019 PG‐13 Biography  Drama  History 7.6 73 126  min 91910
+Sing Stree t‐2016 PG‐13 Comedy  Drama  Music 7.9 79 106  min 96455
+Les chorist ‐2004 PG‐13 Comedy  Drama  Music 7.8 56 97  min 63949
+En man som‐2015 PG‐13 Comedy  Drama  Romance 7.7 70 116  min 60936
+Me and Ea‐2015 PG‐13 Comedy  Drama  Romance 7.7 74 105  min 133878
+Midnight in‐2011 PG‐13 Comedy  Fantasy  Romance 7.7 81 94  min 431116
+Touch of Ev‐1958 PG‐13 Crime  Drama  Film‐Noir 8 99 95  min 106239
+Dare mo sh‐2004 PG‐13 Drama ' ‐ '‐ 8 88 141  min 29031
+Okuribito ‐2008 PG‐13 Drama ' ‐ '‐ 8 68 130  min 52994
+In America ‐2002 PG‐13 Drama ' ‐ '‐ 7.7 76 105  min 43572
+Hamlet ‐1996 PG‐13 Drama ' ‐ '‐ 7.7 '‐ 242 min 38806
+Joyeux Noë‐2005 PG‐13 Drama  History  Music 7.7 70 116  min 30627
+Le passé ‐2013 PG‐13 Drama  Mystery ' ‐ 7.7 85 130  min 49617
+The Boy in ‐2008 PG‐13 Drama  War ' ‐ 7.7 55 94  min 225677
+Deadpool  2‐2018 R Action  Adventur e Comedy 7.7 66 119  min 595144
+Ip Man ‐2008 R Action  Biograph y Drama 8 59 106  min 226616
+Rush (I)  (2013) R Action  Biograph y Drama 8.1 74 123  min 486611
+Deadpool ‐2016 R Action  Comedy ' ‐ 8 65 108  min 1053888
+Dip huet se‐1989 R Action  Crime  Drama 7.8 82 111  min 49276
+Tropa de E‐2007 R Action  Crime  Drama 8 33 115  min 105956
+Taegukgi h‐2004 R Action  Drama  War 8 64 140  min 40196
+1917 ‐2019 R Action  Drama  War 8.2 78 119  min 608304
+The Fall (I) (2006) R Adventure  Drama  Fantasy 7.8 64 117  min 113735
+Waking Life‐2001 R Animation  Drama  Fantasy 7.7 83 99  min 65164
+Pride (I)  (2014) R Biography  Comedy  Drama 7.8 79 119  min 58824
+Papillon ‐1973 R Biography  Crime  Drama 8 58 151  min 132913
+Dallas Buye‐2013 R Biography  Drama ' ‐ 7.9 77 117  min 496081
+Straight Ou‐2015 R Biography  Drama  History 7.8 72 147  min 206742
+Control ‐2007 R Biography  Drama  Music 7.6 78 122  min 66524
+Amadeus ‐1984 R Biography  Drama  Music 8.4 88 160  min 406095Office Spac‐1999 R Comedy ' ‐ '‐ 7.6 68 89  min 272638
+Adams æb‐2005 R Comedy  Crime  Drama 7.7 51 94  min 51987
+In Bruges ‐2008 R Comedy  Crime  Drama 7.9 67 107  min 439792
+Crna mack ‐1998 R Comedy  Crime  Romance 8 73 127  min 54819
+Night on Ea‐1991 R Comedy  Drama ' ‐ 7.7 68 129  min 62150
+Adaptatio n‐2002 R Comedy  Drama ' ‐ 7.7 83 115  min 195794
+Short Cuts ‐1993 R Comedy  Drama ' ‐ 7.7 81 188  min 45767
+Being John‐1999 R Comedy  Drama  Fantasy 7.8 90 113  min 341022
+Hedwig an‐2001 R Comedy  Drama  Music 7.7 85 95  min 36267
+Verdens ve‐2021 R Comedy  Drama  Romance 7.8 90 128  min 75981
+Good Bye L‐2003 R Comedy  Drama  Romance 7.7 68 121  min 148364
+No Man's L(I) (2001) R Comedy  Drama  War 7.9 84 98  min 47722
+What We D‐2014 R Comedy  Horror ' ‐ 7.6 76 86  min 188258
+Lilja 4‐ever‐2002 R Crime  Drama ' ‐ 7.8 82 109  min 46768
+A Bronx Ta‐1993 R Crime  Drama ' ‐ 7.8 80 121  min 146230
+Bound by H‐1993 R Crime  Drama ' ‐ 7.9 47 180  min 32330
+American  H‐1998 R Crime  Drama ' ‐ 8.5 62 119  min 1133846
+La miglior e‐2013 R Crime  Drama  Mystery 7.8 49 131  min 122043
+Madeo ‐2009 R Crime  Drama  Mystery 7.8 79 129  min 66584
+Män som h‐2009 R Crime  Drama  Mystery 7.8 76 152  min 218770
+Glengarry  G‐1992 R Crime  Drama  Mystery 7.7 82 100  min 108880
+Wind River‐2017 R Crime  Drama  Mystery 7.7 73 107  min 258956
+Nueve rein‐2000 R Crime  Drama  Thriller 7.9 80 114  min 54265
+Eastern Pro‐2007 R Crime  Drama  Thriller 7.6 83 100  min 248177
+Lucky Num‐2006 R Crime  Drama  Thriller 7.7 53 110  min 317409
+Hell or Hig(II) (2016) R Crime  Drama  Thriller 7.6 88 102  min 236459
+Aftersun (II)  (2022) R Drama ' ‐ '‐ 7.7 95 102  min 49097
+Efter bryllu‐2006 R Drama ' ‐ '‐ 7.7 78 120  min 35469
+Short Term‐2013 R Drama ' ‐ '‐ 7.9 82 96  min 89114
+Festen ‐1998 R Drama ' ‐ '‐ 8.1 82 105  min 89001
+25th Hour ‐2002 R Drama ' ‐ '‐ 7.6 69 135  min 180917
+Sling Blade‐1996 R Drama ' ‐ '‐ 8 84 135  min 95516
+Mommy (I)  (2014) R Drama ' ‐ '‐ 8 74 139  min 58591
+Breaking th‐1996 R Drama ' ‐ '‐ 7.8 81 159  min 68572
+The Magd a‐2002 R Drama ' ‐ '‐ 7.7 83 114  min 27657
+Central do ‐1998 R Drama ' ‐ '‐ 8 80 110  min 40534
+Todo sobre‐1999 R Drama ' ‐ '‐ 7.8 87 101  min 98823
+Låt den rät‐2008 R Drama  Fantasy  Horror 7.9 82 114  min 220366
+La double v‐1991 R Drama  Fantasy  Music 7.7 86 98  min 50212
+Mr. Nobo d‐2009 R Drama  Fantasy  Romance 7.8 63 141  min 237255
+Pan's Laby ‐2006 R Drama  Fantasy  War 8.2 98 118  min 676113
+Under sand‐2015 R Drama  History  War 7.8 75 100  min 42643
+La piel que‐2011 R Drama  Horror  Mystery 7.6 70 120  min 156466
+Ba wang bi‐1993 R Drama  Music  Romance 8.1 83 171  min 30349
+Once (I)  (2007) R Drama  Music  Romance 7.8 89 86  min 118149
+El secreto d‐2009 R Drama  Mystery  Romance 8.2 80 129  min 212440
+Hable con ‐2002 R Drama  Mystery  Romance 7.9 86 112  min 114262Moon ‐2009 R Drama  Mystery  Sci‐Fi 7.8 67 97  min 364210
+Apocalyps e‐1979 R Drama  Mystery  War 8.5 94 147  min 675954
+Gegen die ‐2004 R Drama  Romance ' ‐ 7.9 78 121  min 55457
+Bom yeore‐2003 R Drama  Romance ' ‐ 8 85 103  min 84286
+Before Mid‐2013 R Drama  Romance ' ‐ 7.9 94 109  min 162339
+Match Poin‐2005 R Drama  Romance  Thriller 7.6 72 124  min 221142
+Das Experi ‐2001 R Drama  Thriller ' ‐ 7.7 60 120  min 94687
+The Machi ‐2004 R Drama  Thriller ' ‐ 7.7 61 101  min 397309
+Das Boot ‐1981 R Drama  War ' ‐ 8.4 86 149  min 253707
+Alien ‐1979 R Horror  Sci‐Fi '‐ 8.5 89 117  min 893896
+Indiana Jon‐1989 U Action  Adventur e'‐ 8.2 65 127  min 764137
+Sholay ‐1975 U Action  Adventur e Comedy 8.1 ' ‐ 204 min 56724
+The Blues B‐1980 U Action  Adventur e Comedy 7.9 60 133  min 204148
+The Lord o‐2001 U Action  Adventur e Drama 8.8 92 178  min 1897288
+The Lord o‐2003 U Action  Adventur e Drama 9 94 201  min 1867714
+Star Wars: ‐1983 U Action  Adventur e Fantasy 8.3 58 131  min 1066082
+Star Wars ‐1977 U Action  Adventur e Fantasy 8.6 90 121  min 1379497
+Star Wars: ‐2005 U Action  Adventur e Fantasy 7.6 68 140  min 802880
+North by N‐1959 U Action  Adventur e Mystery 8.3 98 136  min 332041
+Star Trek II‐1982 U Action  Adventur e Sci‐Fi 7.7 68 113  min 124103
+Aliens ‐1986 U Action  Adventur e Sci‐Fi 8.4 84 137  min 726077
+Star Wars: ‐2015 U Action  Adventur e Sci‐Fi 7.8 80 138  min 940166
+The Dirty D‐1967 U Action  Adventur e War 7.7 73 150  min 75415
+Dangal ‐2016 U Action  Biograph y Drama 8.3 ' ‐ 161 min 194908
+Hera Pheri ‐2000 U Action  Comedy  Crime 8.1 ' ‐ 156 min 68671
+Andaz Apn‐1994 U Action  Comedy  Romance 8 ' ‐ 160 min 53978
+The Fugiti v‐1993 U Action  Crime  Drama 7.8 87 130  min 301093
+The Takin g‐1974 U Action  Crime  Thriller 7.6 68 104  min 32387
+Soorarai Po‐2020 U Action  Drama ' ‐ 8.7 '‐ 153 min 118584
+Shichinin n‐1954 U Action  Drama ' ‐ 8.6 98 207  min 349765
+The Longe s‐1962 U Action  Drama  History 7.7 75 178  min 56986
+Sita Rama m‐2022 U Action  Drama  Mystery 8.6 ' ‐ 163 min 57358
+Sanjuro ‐1962 U Action  Drama  Thriller 8 ' ‐ 96 min 39092
+Yôjinbô ‐1961 U Action  Drama  Thriller 8.2 93 110  min 124674
+Ran ‐1985 U Action  Drama  War 8.2 96 162  min 127688
+Togo ‐2019 U Adventure  Biograph y Drama 7.9 69 113  min 51051
+Dersu Uzal‐1975 U Adventure  Biograph y Drama 8.2 ' ‐ 142 min 31224
+Diarios de ‐2004 U Adventure  Biograph y Drama 7.7 75 126  min 102508
+Into the W‐2007 U Adventure  Biograph y Drama 8.1 73 148  min 630345
+Lawrence  o‐1962 U Adventure  Biograph y Drama 8.3 100 218  min 298113
+O Brother, ‐2000 U Adventure  Comedy  Crime 7.7 69 107  min 317789
+The Prince ‐1987 U Adventure  Comedy  Family 8 77 98  min 432788
+Paddingto n‐2017 U Adventure  Comedy  Family 7.8 88 103  min 82977
+The Gooni e‐1985 U Adventure  Comedy  Family 7.7 62 114  min 280667
+Monty Pyth‐1975 U Adventure  Comedy  Fantasy 8.2 91 91  min 547629
+Back to the‐1989 U Adventure  Comedy  Sci‐Fi 7.8 57 108  min 542223
+Back to the‐1985 U Adventure  Comedy  Sci‐Fi 8.5 87 116  min 1222907Stand by M‐1986 U Adventure  Drama ' ‐ 8.1 75 89  min 411805
+Ben‐Hur ‐1959 U Adventure  Drama ' ‐ 8.1 90 212  min 242629
+The Ten Co‐1956 U Adventure  Drama  Family 7.9 ' ‐ 220 min 72464
+Life of Pi‐2012 U Adventure  Drama  Fantasy 7.9 79 127  min 639981
+Big Fish ‐2003 U Adventure  Drama  Fantasy 8 58 125  min 445742
+The Great ‐1963 U Adventure  Drama  History 8.2 86 172  min 247641
+Apollo 13 (I) (1995) U Adventure  Drama  History 7.7 77 140  min 300553
+The Africa n‐1951 U Adventure  Drama  Romance 7.7 91 105  min 80441
+Le salaire d‐1953 U Adventure  Drama  Thriller 8.2 85 131  min 62585
+Deliveranc ‐1972 U Adventure  Drama  Thriller 7.7 80 109  min 112694
+Barry Lynd ‐1975 U Adventure  Drama  War 8.1 89 185  min 171748
+The Bridg e‐1957 U Adventure  Drama  War 8.2 87 161  min 223703
+The Searc h‐1956 U Adventure  Drama  Western 7.9 94 119  min 91565
+Dances wit‐1990 U Adventure  Drama  Western 8 72 181  min 272274
+The Wizar d‐1939 U Adventure  Family  Fantasy 8.1 92 102  min 406443
+Harry Potte‐2004 U Adventure  Family  Fantasy 7.9 82 142  min 648088
+Harry Potte‐2001 U Adventure  Family  Fantasy 7.6 65 152  min 799243
+Stardust ‐2007 U Adventure  Family  Fantasy 7.6 66 127  min 276062
+E.T. the Ext‐1982 U Adventure  Family  Sci‐Fi 7.9 91 115  min 416968
+Planet of th‐1968 U Adventure  Sci‐Fi '‐ 8 79 112  min 183525
+2001: A Sp‐1968 U Adventure  Sci‐Fi '‐ 8.3 84 149  min 677977
+The Man W‐1975 U Adventure  War ' ‐ 7.8 91 129  min 50092
+How to Tra‐2014 U Animation  Action  Adventur e 7.8 77 102  min 343111
+Spider‐Ma‐2018 U Animation  Action  Adventur e 8.4 87 117  min 546931
+Mononok e‐1997 U Animation  Action  Adventur e 8.3 76 134  min 401348
+Kung Fu Pa‐2008 U Animation  Action  Adventur e 7.6 74 92  min 481868
+How to Tra‐2010 U Animation  Action  Adventur e 8.1 75 98  min 751962
+Big Hero 6‐2014 U Animation  Action  Adventur e 7.8 74 102  min 470318
+The Iron G‐1999 U Animation  Action  Adventur e 8.1 85 86  min 204988
+The Lego M‐2014 U Animation  Action  Adventur e 7.7 83 100  min 363007
+The Incred ‐2004 U Animation  Action  Adventur e 8 90 115  min 751002
+Kubo and t‐2016 U Animation  Action  Adventur e 7.7 84 101  min 132032
+Cowboy Be‐2001 U Animation  Action  Crime 7.8 61 115  min 50158
+Toki o kake‐2006 U Animation  Adventur e Comedy 7.7 66 98  min 67763
+Kurenai no‐1992 U Animation  Adventur e Comedy 7.7 83 94  min 92636
+Soul ‐2020 U Animation  Adventur e Comedy 8 83 100  min 338962
+Mulan ‐1998 U Animation  Adventur e Comedy 7.6 71 87  min 295052
+The Jungle ‐1967 U Animation  Adventur e Comedy 7.6 65 78  min 187703
+Gake no ue‐2008 U Animation  Adventur e Comedy 7.6 86 101  min 148311
+Who Fram e‐1988 U Animation  Adventur e Comedy 7.7 83 104  min 205780
+Puss in Boo‐2022 U Animation  Adventur e Comedy 7.9 73 102  min 98754
+Wreck‐It R‐2012 U Animation  Adventur e Comedy 7.7 72 101  min 431107
+Toy Story ‐1995 U Animation  Adventur e Comedy 8.3 96 81  min 1006690
+Tangled ‐2010 U Animation  Adventur e Comedy 7.7 71 100  min 462950
+Ratatouill e‐2007 U Animation  Adventur e Comedy 8.1 96 111  min 753559
+Coco (I)  (2017) U Animation  Adventur e Comedy 8.4 81 105  min 522493
+Fantastic M‐2009 U Animation  Adventur e Comedy 7.9 83 87  min 239730Aladdin ‐1992 U Animation  Adventur e Comedy 8 86 90  min 429817
+Toy Story 2‐1999 U Animation  Adventur e Comedy 7.9 88 92  min 589935
+Despicabl e‐2010 U Animation  Adventur e Comedy 7.6 72 95  min 555532
+Shrek ‐2001 U Animation  Adventur e Comedy 7.9 84 90  min 691162
+Monsters,  ‐2001 U Animation  Adventur e Comedy 8.1 79 92  min 921853
+Up ‐2009 U Animation  Adventur e Comedy 8.3 88 96  min 1057419
+Isle of Dog‐2018 U Animation  Adventur e Comedy 7.8 82 101  min 174068
+Zootopia ‐2016 U Animation  Adventur e Comedy 8 78 108  min 509161
+Inside Out (I) (2015) U Animation  Adventur e Comedy 8.1 94 95  min 726277
+Finding Ne‐2003 U Animation  Adventur e Comedy 8.2 90 100  min 1056074
+Toy Story 3‐2010 U Animation  Adventur e Comedy 8.3 92 103  min 846433
+Toy Story 4‐2019 U Animation  Adventur e Comedy 7.7 84 100  min 257600
+The Lion Ki‐1994 U Animation  Adventur e Drama 8.5 88 88  min 1072532
+Tenkû no s‐1986 U Animation  Adventur e Family 8 78 125  min 169972
+Sen to Chih‐2001 U Animation  Adventur e Family 8.6 96 125  min 777246
+Snow Whit‐1937 U Animation  Adventur e Family 7.6 96 83  min 203852
+WALL∙E ‐2008 U Animation  Adventur e Family 8.4 95 98  min 1130279
+Hauru no u‐2004 U Animation  Adventur e Family 8.2 82 119  min 404338
+Kaze no tan‐1984 U Animation  Adventur e Sci‐Fi 8 86 117  min 172294
+Mary and M‐2009 U Animation  Comedy  Drama 8.1 ' ‐ 92 min 179543
+Tonari no T‐1988 U Animation  Comedy  Family 8.1 86 86  min 346987
+Mimi wo su‐1995 U Animation  Drama  Family 7.9 75 111  min 65284
+Ôkami kod‐2012 U Animation  Drama  Family 8.1 71 117  min 46293
+The Bread w‐2017 U Animation  Drama  Family 7.7 78 94  min 26515
+Omoide no‐2014 U Animation  Drama  Family 7.7 72 103  min 42627
+Kaguya‐him‐2013 U Animation  Drama  Family 8 89 137  min 48729
+Coraline ‐2009 U Animation  Drama  Family 7.7 80 100  min 238202
+Paprika ‐2006 U Animation  Drama  Fantasy 7.7 81 90  min 86220
+Kimi no na ‐2016 U Animation  Drama  Fantasy 8.4 79 106  min 277608
+Hotaru no ‐1988 U Animation  Drama  War 8.5 94 89  min 282869
+Majo no ta‐1989 U Animation  Family  Fantasy 7.8 83 103  min 149169
+Beauty and‐1991 U Animation  Family  Fantasy 8 95 84  min 460622
+The Night m‐1993 U Animation  Family  Fantasy 7.9 82 76  min 348645
+Fantasia ‐1940 U Animation  Family  Fantasy 7.7 96 124  min 98837
+La planète ‐1973 U Animation  Sci‐Fi '‐ 7.7 73 72  min 33139
+Ed Wood ‐1994 U Biography  Comedy  Drama 7.8 70 127  min 178714
+Butch Cass‐1969 U Biography  Crime  Drama 8 66 110  min 219181
+Dog Day Af‐1975 U Biography  Crime  Drama 8 86 125  min 261153
+My Left Fo‐1989 U Biography  Drama ' ‐ 7.8 97 103  min 76043
+The Pursui t‐2006 U Biography  Drama ' ‐ 8 64 117  min 523785
+Mar adent (I) (2004) U Biography  Drama ' ‐ 8 74 126  min 82944
+Super 30 ‐2019 U Biography  Drama ' ‐ 7.9 '‐ 154 min 33377
+Lion ‐2016 U Biography  Drama ' ‐ 8 69 118  min 240668
+Awakenin g‐1990 U Biography  Drama ' ‐ 7.8 74 121  min 146446
+The Straig h‐1999 U Biography  Drama ' ‐ 8 86 112  min 92432
+Hachi: A Do‐2009 U Biography  Drama  Family 8.1 ' ‐ 93 min 291308
+The Sound ‐1965 U Biography  Drama  Family 8.1 63 172  min 241207Finding Ne‐2004 U Biography  Drama  Family 7.7 67 106  min 208234
+The King's ‐2010 U Biography  Drama  History 8 88 118  min 687531
+Frost/Nixo ‐2008 U Biography  Drama  History 7.7 80 122  min 109593
+The Lion in‐1968 U Biography  Drama  History 7.9 ' ‐ 134 min 32294
+Glory ‐1989 U Biography  Drama  History 7.8 78 122  min 137589
+A Man for ‐1966 U Biography  Drama  History 7.7 72 120  min 35417
+The Last Em‐1987 U Biography  Drama  History 7.7 76 163  min 105746
+Malcolm X‐1992 U Biography  Drama  History 7.7 73 202  min 97103
+Gandhi ‐1982 U Biography  Drama  History 8 79 191  min 234889
+Walk the L‐2005 U Biography  Drama  Music 7.8 72 136  min 255352
+The Theor y‐2014 U Biography  Drama  Romance 7.7 71 123  min 459474
+Bhaag Milk‐2013 U Biography  Drama  Sport 8.2 ' ‐ 186 min 69381
+M.S. Dhon ‐2016 U Biography  Drama  Sport 7.9 ' ‐ 184 min 61652
+Remembe r‐2000 U Biography  Drama  Sport 7.8 48 113  min 219997
+The World ‐2005 U Biography  Drama  Sport 7.8 68 127  min 56075
+Patton ‐1970 U Biography  Drama  War 7.9 86 172  min 103929
+Clerks ‐1994 U Comedy ' ‐ '‐ 7.7 70 92  min 226039
+Ferris Buel ‐1986 U Comedy ' ‐ '‐ 7.8 61 103  min 365585
+Airplane! ‐1980 U Comedy ' ‐ '‐ 7.7 78 88  min 245659
+Kind Heart ‐1949 U Comedy  Crime ' ‐ 8'‐ 106 min 38176
+The Naked ‐1988 U Comedy  Crime ' ‐ 7.6 76 85  min 174023
+Chung Hing‐1994 U Comedy  Crime  Drama 8 78 102  min 85888
+The Sting ‐1973 U Comedy  Crime  Drama 8.3 83 129  min 266993
+The King of‐1982 U Comedy  Crime  Drama 7.8 73 109  min 107616
+Paper Moo‐1973 U Comedy  Crime  Drama 8.1 77 102  min 49169
+Hindi Med ‐2017 U Comedy  Drama ' ‐ 7.8 '‐ 132 min 30088
+Munna Bha‐2003 U Comedy  Drama ' ‐ 8.1 '‐ 156 min 83855
+The Trum a‐1998 U Comedy  Drama ' ‐ 8.2 90 103  min 1101619
+Secrets & L‐1996 U Comedy  Drama ' ‐ 8 91 136  min 44511
+Do the Righ‐1989 U Comedy  Drama ' ‐ 8 93 120  min 104836
+Jean de Flo‐1986 U Comedy  Drama ' ‐ 8.1 '‐ 120 min 26449
+Mr. Smith ‐1939 U Comedy  Drama ' ‐ 8.1 73 129  min 116853
+Dead Poet s‐1989 U Comedy  Drama ' ‐ 8.1 79 128  min 501904
+English Vin‐2012 U Comedy  Drama  Family 7.8 ' ‐ 134 min 37317
+The Sandl o‐1993 U Comedy  Drama  Family 7.8 55 101  min 95058
+OMG: Oh M‐2012 U Comedy  Drama  Fantasy 8.1 ' ‐ 125 min 60209
+Groundho g‐1993 U Comedy  Drama  Fantasy 8.1 72 101  min 643910
+Kal Ho Naa‐2003 U Comedy  Drama  Musical 7.9 54 186  min 71283
+Zindagi Na ‐2011 U Comedy  Drama  Musical 8.2 ' ‐ 155 min 80412
+Jab We Me‐2007 U Comedy  Drama  Romance 7.9 ' ‐ 138 min 54921
+The Apart m‐1960 U Comedy  Drama  Romance 8.3 94 125  min 184633
+Lage Raho ‐2006 U Comedy  Drama  Romance 8 ' ‐ 144 min 47897
+Barfi! ‐2012 U Comedy  Drama  Romance 8.1 ' ‐ 151 min 83450
+The Artist (I) (2011) U Comedy  Drama  Romance 7.9 89 100  min 243629
+La vita è be‐1997 U Comedy  Drama  Romance 8.6 59 116  min 704155
+A Christm a‐1983 U Comedy  Family ' ‐ 7.9 77 93  min 160362
+Home Alon‐1990 U Comedy  Family ' ‐ 7.7 63 103  min 599551Mary Popp‐1964 U Comedy  Family  Fantasy 7.8 88 139  min 176793
+The Purpl e‐1985 U Comedy  Fantasy  Romance 7.7 75 82  min 52693
+Some Like ‐1959 U Comedy  Music  Romance 8.2 98 121  min 271012
+Charade ‐1963 U Comedy  Mystery  Romance 7.9 83 113  min 80107
+Roman Ho‐1953 U Comedy  Romance ' ‐ 8 78 118  min 141220
+Le fabuleu x‐2001 U Comedy  Romance ' ‐ 8.3 69 122  min 764217
+To Kill a Mo‐1962 U Crime  Drama ' ‐ 8.3 88 129  min 319813
+Les quatre ‐1959 U Crime  Drama ' ‐ 8.1 '‐ 99 min 120702
+À bout de s‐1960 U Crime  Drama ' ‐ 7.7 '‐ 90 min 83856
+12 Angry M‐1957 U Crime  Drama ' ‐ 99 7 9 6  min 801997
+Dancer in t‐2000 U Crime  Drama  Musical 7.9 61 140  min 112001
+Rashômon ‐1950 U Crime  Drama  Mystery 8.2 98 88  min 171105
+Witness fo‐1957 U Crime  Drama  Mystery 8.4 76 116  min 127797
+Bin‐jip ‐2004 U Crime  Drama  Romance 7.9 72 88  min 56195
+Drishyam ‐2013 U Crime  Drama  Thriller 8.3 ' ‐ 160 min 42348
+Rebel With‐1955 U Drama ' ‐ '‐ 7.6 89 111  min 92887
+East of Ede‐1955 U Drama ' ‐ '‐ 7.8 72 118  min 46583
+Tôkyô mon‐1953 U Drama ' ‐ '‐ 8.2 100 136  min 63275
+Ikiru ‐1952 U Drama ' ‐ '‐ 8.3 91 143  min 80524
+Sacrifice ‐1986 U Drama ' ‐ '‐ 7.9 '‐ 149 min 29198
+Ladri di bic‐1948 U Drama ' ‐ '‐ 8.3 '‐ 89 min 165892
+Pather Pan‐1955 U Drama ' ‐ '‐ 8.3 '‐ 125 min 34382
+Black ‐2005 U Drama ' ‐ '‐ 8.1 '‐ 122 min 35356
+Kramer vs.‐1979 U Drama ' ‐ '‐ 7.8 77 105  min 148006
+Rain Man ‐1988 U Drama ' ‐ '‐ 8 65 133  min 521916
+Paris, Texa ‐1984 U Drama ' ‐ '‐ 8.1 81 145  min 109114
+I Am Sam ‐2001 U Drama ' ‐ '‐ 7.6 28 132  min 151771
+The Verdic ‐1982 U Drama ' ‐ '‐ 7.7 77 129  min 42267
+Ordinary P‐1980 U Drama ' ‐ '‐ 7.7 86 124  min 53675
+Fried Gree ‐1991 U Drama ' ‐ '‐ 7.7 64 130  min 77029
+What's Eat‐1993 U Drama ' ‐ '‐ 7.7 73 118  min 241939
+The Color P‐1985 U Drama ' ‐ '‐ 7.7 78 154  min 89251
+Taare Zam ‐2007 U Drama  Family ' ‐ 8.3 '‐ 165 min 196196
+Wonder (I)  (2017) U Drama  Family ' ‐ 7.9 66 113  min 168346
+Veer‐Zaara‐2004 U Drama  Family  Musical 7.8 67 192  min 54485
+My Fair Lad‐1964 U Drama  Family  Musical 7.8 95 170  min 97442
+Fiddler on ‐1971 U Drama  Family  Musical 8 67 181  min 44917
+Chak De! In‐2007 U Drama  Family  Sport 8.1 68 153  min 81788
+Der Himm e‐1987 U Drama  Fantasy  Romance 8 79 128  min 72770
+Edward Sci‐1990 U Drama  Fantasy  Romance 7.9 74 105  min 498947
+Sweet Sme‐1957 U Drama  Film‐Noir '‐ 8 100 96  min 33302
+Notorious ‐1946 U Drama  Film‐Noir Romance 7.9 100 102  min 102927
+Kumonosu ‐1957 U Drama  History ' ‐ 8.1 '‐ 110 min 53351
+All the Pres‐1976 U Drama  History  Thriller 7.9 84 138  min 118632
+Zulu ‐1964 U Drama  History  War 7.7 77 138  min 40468
+Kagemush a‐1980 U Drama  History  War 7.9 84 180  min 36481
+Höstsonat e‐1978 U Drama  Music ' ‐ 8.1 '‐ 99 min 35451Trois coule‐1993 U Drama  Music  Mystery 7.9 85 94  min 104897
+Anand ‐1971 U Drama  Musical ' ‐ 8.1 '‐ 122 min 34273
+Swades: W‐2004 U Drama  Musical ' ‐ 8.2 '‐ 210 min 92900
+Lagaan: On‐2001 U Drama  Musical  Sport 8.1 84 224  min 116214
+L'avventur a‐1960 U Drama  Mystery  Romance 7.8 ' ‐ 144 min 30807
+Trois coule‐1994 U Drama  Mystery  Romance 8.1 100 99  min 105385
+Un long dim‐2004 U Drama  Mystery  Romance 7.6 76 133  min 74566
+Solaris ‐1972 U Drama  Mystery  Sci‐Fi 8 93 167  min 93512
+Abre los oj‐1997 U Drama  Mystery  Sci‐Fi 7.7 ' ‐ 119 min 70647
+The Presti g‐2006 U Drama  Mystery  Sci‐Fi 8.5 66 130  min 1349763
+In the Heat‐1967 U Drama  Mystery  Thriller 7.9 76 110  min 78483
+The Conve ‐1974 U Drama  Mystery  Thriller 7.8 87 113  min 114598
+Dilwale Du‐1995 U Drama  Romance ' ‐ 8'‐ 189 min 72246
+Brief Enco u‐1945 U Drama  Romance ' ‐ 89 2 8 6  min 41358
+96 (II) (2018) U Drama  Romance ' ‐ 8.5 '‐ 158 min 32545
+Smultrons t‐1957 U Drama  Romance ' ‐ 8.1 88 91  min 108990
+Little Wom‐2019 U Drama  Romance ' ‐ 7.8 91 135  min 214087
+Nuovo Cine‐1988 U Drama  Romance ' ‐ 8.5 80 155  min 265265
+Good Will ‐1997 U Drama  Romance ' ‐ 8.3 70 126  min 988959
+Marriage S‐2019 U Drama  Romance ' ‐ 7.9 94 137  min 319412
+Fa Yeung N‐2000 U Drama  Romance ' ‐ 8.1 87 98  min 154503
+The Remai ‐1993 U Drama  Romance ' ‐ 7.8 86 134  min 77029
+The Last Pi‐1971 U Drama  Romance ' ‐ 8 93 118  min 49528
+Pride & Pre‐2005 U Drama  Romance ' ‐ 7.8 82 129  min 303838
+The Lunch b‐2013 U Drama  Romance ' ‐ 7.8 76 104  min 57586
+Sense and ‐1995 U Drama  Romance ' ‐ 7.7 84 136  min 118956
+Casablanc a‐1942 U Drama  Romance  War 8.5 100 102  min 578267
+Gone with ‐1939 U Drama  Romance  War 8.2 97 238  min 319724
+The Day th‐1951 U Drama  Sci‐Fi '‐ 7.8 '‐ 92 min 83178
+Stalker ‐1979 U Drama  Sci‐Fi '‐ 8.1 83 162  min 136981
+Brazil ‐1985 U Drama  Sci‐Fi '‐ 7.9 84 132  min 203839
+Rocky ‐1976 U Drama  Sport ' ‐ 8.1 70 120  min 589337
+Room (I)  (2015) U Drama  Thriller ' ‐ 8.1 86 118  min 427409
+A Few Goo‐1992 U Drama  Thriller ' ‐ 7.7 62 138  min 270334
+High Noon ‐1952 U Drama  Thriller  Western 8 89 85  min 106106
+The Caine ‐1954 U Drama  War ' ‐ 7.7 63 124  min 28435
+Empire of t‐1987 U Drama  War ' ‐ 7.7 62 153  min 128552
+All Quiet o‐1930 U Drama  War ' ‐ 8.1 91 152  min 64699
+Au revoir le‐1987 U Drama  War ' ‐ 8 88 104  min 34673
+The Man W‐1962 U Drama  Western ' ‐ 8.1 94 123  min 78142
+Willy Won k‐1971 U Family  Fantasy  Musical 7.8 67 100  min 206903
+The Third M‐1949 U Film ‐Noir Mystery  Thriller 8.1 97 104  min 173884
+Rear Wind ‐1954 U Mystery  Thriller ' ‐ 8.5 100 112  min 497495
+Per qualch ‐1965 U Western ' ‐ '‐ 8.2 74 132  min 260439
+Once Upon‐1968 U Western ' ‐ '‐ 8.5 82 165  min 334076
+Mission: Im‐2018 U/A Action  Adventur e Thriller 7.7 86 147  min 340378
+Searching (III)  (2018) U/A Drama  Mystery  Thriller 7.6 71 102  min 168375Thor: Ragn‐2017 UA Action  Adventur e Comedy 7.9 74 130  min 765778
+Guardians  ‐2014 UA Action  Adventur e Comedy 8 76 121  min 1194702
+Guardians  ‐2017 UA Action  Adventur e Comedy 7.6 67 136  min 694640
+Bajrangi Bh‐2015 UA Action  Adventur e Comedy 8.1 ' ‐ 163 min 90776
+Kaithi ‐2019 UA Action  Adventur e Crime 8.5 ' ‐ 145 min 34748
+Kantara ‐2022 UA Action  Adventur e Drama 8.3 ' ‐ 148 min 92320
+Dune: Part‐2021 UA Action  Adventur e Drama 8 74 155  min 655947
+Wo hu can‐2000 UA Action  Adventur e Drama 7.9 94 120  min 273469
+Letters fro‐2006 UA Action  Adventur e Drama 7.9 89 141  min 165117
+RRR (Rise R‐2022 UA Action  Adventur e Drama 7.9 83 187  min 140355
+Gladiator ‐2000 UA Action  Adventur e Drama 8.5 67 155  min 1518724
+Dawn of th‐2014 UA Action  Adventur e Drama 7.6 79 130  min 447970
+The Lord o‐2002 UA Action  Adventur e Drama 8.8 87 179  min 1686430
+Ying xiong ‐2002 UA Action  Adventur e Drama 7.9 85 120  min 183482
+The Count ‐2002 UA Action  Adventur e Drama 7.7 61 131  min 141006
+The Last of‐1992 UA Action  Adventur e Drama 7.7 76 112  min 175087
+Avengers:  ‐2019 UA Action  Adventur e Drama 8.4 78 181  min 1157559
+The Empir e‐1980 UA Action  Adventur e Fantasy 8.7 82 124  min 1307079
+Pirates of t‐2003 UA Action  Adventur e Fantasy 8.1 63 143  min 1141747
+Avatar: The‐2022 UA Action  Adventur e Fantasy 7.8 67 192  min 316425
+Avatar ‐2009 UA Action  Adventur e Fantasy 7.9 83 162  min 1329369
+Spider‐Ma‐2021 UA Action  Adventur e Fantasy 8.2 71 148  min 777880
+Edge of To‐2014 UA Action  Adventur e Sci‐Fi 7.9 71 113  min 691836
+Mad Max 2‐1981 UA Action  Adventur e Sci‐Fi 7.6 77 96  min 184393
+Mad Max: ‐2015 UA Action  Adventur e Sci‐Fi 8.1 90 120  min 1018045
+Star Trek In‐2013 UA Action  Adventur e Sci‐Fi 7.7 72 132  min 487295
+X‐Men: Da‐2014 UA Action  Adventur e Sci‐Fi 7.9 75 132  min 720192
+Star Trek ‐2009 UA Action  Adventur e Sci‐Fi 7.9 82 127  min 607867
+Captain Am‐2014 UA Action  Adventur e Sci‐Fi 7.8 70 136  min 857794
+Inception ‐2010 UA Action  Adventur e Sci‐Fi 8.8 74 148  min 2384608
+Iron Man ‐2008 UA Action  Adventur e Sci‐Fi 7.9 79 126  min 1072165
+Jurassic Pa‐1993 UA Action  Adventur e Sci‐Fi 8.2 68 127  min 1002785
+Rogue One‐2016 UA Action  Adventur e Sci‐Fi 7.8 65 133  min 649993
+The Fifth E‐1997 UA Action  Adventur e Sci‐Fi 7.6 52 126  min 481414
+Avengers:  ‐2018 UA Action  Adventur e Sci‐Fi 8.4 68 149  min 1103204
+Casino Roy‐2006 UA Action  Adventur e Thriller 8 80 144  min 666059
+Skyfall ‐2012 UA Action  Adventur e Thriller 7.8 81 143  min 705102
+Paan Singh‐2012 UA Action  Biograph y Crime 8.2 ' ‐ 135 min 36863
+Captain Ph‐2013 UA Action  Biograph y Crime 7.8 82 134  min 468598
+Shershaah ‐2021 UA Action  Biograph y Drama 8.4 ' ‐ 135 min 123701
+Ford v Ferr‐2019 UA Action  Biograph y Drama 8.1 81 152  min 407598
+The Fighte (I) (2010) UA Action  Biograph y Drama 7.8 79 116  min 374135
+Kick‐Ass ‐2010 UA Action  Comedy  Crime 7.6 66 117  min 570673
+Kung fu ‐2004 UA Action  Comedy  Fantasy 7.7 78 99  min 142964
+Ghostbust e‐1984 UA Action  Comedy  Fantasy 7.8 71 105  min 422263
+A Wednes d‐2008 UA Action  Crime  Drama 8.1 ' ‐ 104 min 79823
+K.G.F: Chap‐2018 UA Action  Crime  Drama 8.2 ' ‐ 156 min 89950Vikram Ved‐2017 UA Action  Crime  Drama 8.2 ' ‐ 147 min 46779
+Ratsasan ‐2018 UA Action  Crime  Drama 8.3 ' ‐ 170 min 46182
+Mou gaan ‐2002 UA Action  Crime  Drama 8 75 101  min 126796
+Haider ‐2014 UA Action  Crime  Drama 8 ' ‐ 160 min 55780
+Batman Be‐2005 UA Action  Crime  Drama 8.2 70 140  min 1488062
+The Batma ‐2022 UA Action  Crime  Drama 7.8 72 176  min 682101
+The Dark K‐2008 UA Action  Crime  Drama 9 84 152  min 2687020
+K.G.F: Chap‐2022 UA Action  Crime  Drama 8.3 ' ‐ 168 min 137555
+Man on Fir‐2004 UA Action  Crime  Drama 7.7 47 146  min 368933
+RoboCop ‐1987 UA Action  Crime  Sci‐Fi 7.6 70 102  min 264730
+Baby (I)  (2015) UA Action  Crime  Thriller 7.9 ' ‐ 159 min 58577
+Vikram ‐2022 UA Action  Crime  Thriller 8.3 ' ‐ 175 min 62204
+Lethal Wea‐1987 UA Action  Crime  Thriller 7.6 68 109  min 263886
+Lola rennt ‐1998 UA Action  Crime  Thriller 7.7 77 81  min 201424
+Asuran ‐2019 UA Action  Drama ' ‐ 8.4 '‐ 141 min 30666
+The Last Sa‐2003 UA Action  Drama ' ‐ 7.8 55 154  min 448274
+Baahubali  2‐2017 UA Action  Drama ' ‐ 8.2 '‐ 167 min 105021
+Bãhubali:  T‐2015 UA Action  Drama ' ‐ 8'‐ 159 min 128380
+Top Gun: M‐2022 UA Action  Drama ' ‐ 8.3 78 130  min 547564
+Airlift ‐2016 UA Action  Drama  History 7.9 ' ‐ 130 min 57654
+Taeksi woo‐2017 UA Action  Drama  History 7.9 69 137  min 26443
+Dunkirk ‐2017 UA Action  Drama  History 7.8 94 106  min 673385
+United 93‐2006 UA Action  Drama  History 7.6 90 111  min 107920
+Uri: The Su‐2019 UA Action  Drama  History 8.2 ' ‐ 138 min 66037
+Blade Runn‐2017 UA Action  Drama  Mystery 8 81 164  min 590773
+Blade Runn‐1982 UA Action  Drama  Sci‐Fi 8.1 84 117  min 780182
+V for Vend ‐2005 UA Action  Drama  Sci‐Fi 8.2 62 132  min 1132571
+Warrior ‐2011 UA Action  Drama  Sport 8.2 71 140  min 478405
+The Dark K‐2012 UA Action  Drama  Thriller 8.4 78 164  min 1724343
+The Bourn e‐2002 UA Action  Mystery  Thriller 7.9 68 119  min 553942
+The Bourn e‐2007 UA Action  Mystery  Thriller 8 85 115  min 640439
+X: First Clas‐2011 UA Action  Sci‐Fi '‐ 7.7 65 131  min 700284
+Captain Am‐2016 UA Action  Sci‐Fi '‐ 7.8 75 147  min 801457
+The Aveng ‐2012 UA Action  Sci‐Fi '‐ 8 69 143  min 1404708
+The Right S‐1983 UA Adventure  Biograph y Drama 7.8 91 193  min 62570
+The Grand ‐2014 UA Adventure  Comedy  Crime 8.1 88 99  min 826079
+777 Charli e‐2022 UA Adventure  Comedy  Drama 8.8 ' ‐ 136 min 33781
+Queen ‐2013 UA Adventure  Comedy  Drama 8.1 ' ‐ 146 min 66686
+Hunt for th‐2016 UA Adventure  Comedy  Drama 7.8 81 101  min 133683
+Cast Away ‐2000 UA Adventure  Drama  Romance 7.8 73 143  min 602771
+My Name I‐2010 UA Adventure  Drama  Romance 7.9 50 165  min 109997
+Interstella r‐2014 UA Adventure  Drama  Sci‐Fi 8.6 74 169  min 1873802
+The Marti a‐2015 UA Adventure  Drama  Sci‐Fi 8 80 144  min 869011
+Harry Potte‐2005 UA Adventure  Family  Fantasy 7.7 81 157  min 639776
+Harry Potte‐2010 UA Adventure  Family  Fantasy 7.7 65 146  min 561068
+Harry Potte‐2011 UA Adventure  Family  Fantasy 8.1 85 130  min 890107
+WolfWalk e‐2020 UA Animation  Action  Adventur e 8 87 103  min 34186Kimetsu no‐2020 UA Animation  Action  Adventur e 8.2 72 117  min 61751
+Kôkaku Kid‐1995 UA Animation  Action  Crime 7.9 76 83  min 146548
+Akira ‐1988 UA Animation  Action  Drama 8 67 124  min 190958
+Tôkyô godd‐2003 UA Animation  Adventur e Comedy 7.8 73 92  min 42532
+Loving Vinc‐2017 UA Animation  Drama  Mystery 7.8 62 94  min 59608
+The Intouc ‐2011 UA Biography  Comedy  Drama 8.5 57 112  min 871423
+Green Boo‐2018 UA Biography  Comedy  Drama 8.2 69 130  min 507231
+In the Nam‐1993 UA Biography  Crime  Drama 8.1 84 133  min 178198
+Rocketry:  T‐2022 UA Biography  Drama ' ‐ 8.8 '‐ 157 min 52300
+The Eleph a‐1980 UA Biography  Drama ' ‐ 8.2 78 124  min 245266
+A Beautifu ‐2001 UA Biography  Drama ' ‐ 8.2 72 135  min 942374
+The Social ‐2010 UA Biography  Drama ' ‐ 7.8 95 120  min 715397
+Hidden Fig‐2016 UA Biography  Drama  History 7.8 74 127  min 237065
+Hotel Rwan‐2004 UA Biography  Drama  History 8.1 79 121  min 359672
+Der Unter g‐2004 UA Biography  Drama  History 8.2 82 156  min 359704
+Tombston e‐1993 UA Biography  Drama  History 7.8 50 130  min 153547
+Bohemian  ‐2018 UA Biography  Drama  Music 7.9 49 134  min 548907
+Cinderella  ‐2005 UA Biography  Drama  Romance 8 69 144  min 190849
+The Blind S‐2009 UA Biography  Drama  Sport 7.6 53 129  min 339872
+The Inside r‐1999 UA Biography  Drama  Thriller 7.8 84 157  min 173697
+The Imitat i‐2014 UA Biography  Drama  Thriller 8 71 114  min 781842
+The Hang o‐2009 UA Comedy ' ‐ '‐ 7.7 73 100  min 798364
+The Big Leb‐1998 UA Comedy  Crime ' ‐ 8.1 71 117  min 819070
+Snatch ‐2000 UA Comedy  Crime ' ‐ 8.2 55 104  min 866265
+My Cousin ‐1992 UA Comedy  Crime ' ‐ 7.6 68 120  min 129379
+After Hour (I) (1985) UA Comedy  Crime  Drama 7.6 90 97  min 72079
+Knives Out‐2019 UA Comedy  Crime  Drama 7.9 82 130  min 713999
+Rang De Ba‐2006 UA Comedy  Crime  Drama 8.1 ' ‐ 167 min 120028
+Badhaai ho‐2018 UA Comedy  Drama ' ‐ 7.9 '‐ 124 min 35683
+Padman ‐2018 UA Comedy  Drama ' ‐ 7.9 '‐ 140 min 27007
+Lost in Tran‐2003 UA Comedy  Drama ' ‐ 7.7 91 102  min 462829
+The Break f‐1985 UA Comedy  Drama ' ‐ 7.8 66 97  min 407874
+Little Miss ‐2006 UA Comedy  Drama ' ‐ 7.8 80 101  min 490204
+3 Idiots ‐2009 UA Comedy  Drama ' ‐ 8.4 67 170  min 406463
+Chhichhor e‐2019 UA Comedy  Drama  Romance 8.3 ' ‐ 143 min 56761
+Rushmore ‐1998 UA Comedy  Drama  Romance 7.6 86 93  min 188819
+(500) Days ‐2009 UA Comedy  Drama  Romance 7.7 76 95  min 525276
+When Harr‐1989 UA Comedy  Drama  Romance 7.7 76 95  min 226468
+PK ‐2014 UA Comedy  Drama  Sci‐Fi 8.1 ' ‐ 153 min 191416
+Jojo Rabbi t‐2019 UA Comedy  Drama  War 7.9 58 108  min 402630
+Shaun of th‐2004 UA Comedy  Horror ' ‐ 7.9 76 99  min 566216
+Vicky Dono‐2012 UA Comedy  Romance ' ‐ 7.8 '‐ 126 min 44112
+The Green ‐1999 UA Crime  Drama  Fantasy 8.6 61 189  min 1319292
+Article 15‐2019 UA Crime  Drama  Mystery 8.1 ' ‐ 130 min 34752
+Drishyam  2‐2022 UA Crime  Drama  Mystery 8.2 ' ‐ 140 min 33677
+Salinui chu‐2003 UA Crime  Drama  Mystery 8.1 82 131  min 191366
+Talvar ‐2015 UA Crime  Drama  Mystery 8.1 ' ‐ 132 min 36189Drishyam ‐2015 UA Crime  Drama  Mystery 8.2 ' ‐ 163 min 87472
+Zodiac ‐2007 UA Crime  Drama  Mystery 7.7 79 157  min 554273
+Slumdog M‐2008 UA Crime  Drama  Romance 8 84 120  min 853460
+Special Cha‐2013 UA Crime  Drama  Thriller 8 ' ‐ 144 min 57195
+Pink (III)  (2016) UA Crime  Drama  Thriller 8.1 ' ‐ 136 min 46128
+21 Grams ‐2003 UA Crime  Drama  Thriller 7.6 70 124  min 240128
+Crash (I)  (2004) UA Crime  Drama  Thriller 7.7 66 112  min 440241
+Andhadhu n‐2018 UA Crime  Mystery  Thriller 8.2 ' ‐ 139 min 96046
+Ocean's Ele‐2001 UA Crime  Thriller ' ‐ 7.7 74 116  min 585135
+The Fabel m‐2022 UA Drama ' ‐ '‐ 7.6 84 151  min 73935
+Network ‐1976 UA Drama ' ‐ '‐ 8.1 83 121  min 161929
+Udaan ‐2010 UA Drama ' ‐ '‐ 8.1 '‐ 134 min 45631
+I, Daniel Bl‐2016 UA Drama ' ‐ '‐ 7.8 78 100  min 61501
+Il conform i‐1970 UA Drama ' ‐ '‐ 7.9 100 113  min 31595
+American  B‐1999 UA Drama ' ‐ '‐ 8.4 84 122  min 1165019
+Gran Torin ‐2008 UA Drama ' ‐ '‐ 8.1 72 116  min 783710
+The Help ‐2011 UA Drama ' ‐ '‐ 8.1 62 146  min 466518
+Nebraska ‐2013 UA Drama ' ‐ '‐ 7.7 86 115  min 119764
+The Perks o‐2012 UA Drama ' ‐ '‐ 7.9 67 103  min 521247
+Magnolia ‐1999 UA Drama ' ‐ '‐ 8 78 188  min 317113
+Manchest e‐2016 UA Drama ' ‐ '‐ 7.8 96 137  min 289812
+Amour ‐2012 UA Drama ' ‐ '‐ 7.9 95 127  min 102184
+Scent of a W‐1992 UA Drama ' ‐ '‐ 8 59 156  min 304665
+Seven Pou‐2008 UA Drama ' ‐ '‐ 7.6 36 123  min 306873
+Philadelph ‐1993 UA Drama ' ‐ '‐ 7.7 66 125  min 246564
+The Curio u‐2008 UA Drama  Fantasy  Romance 7.8 70 166  min 661501
+JFK ‐1991 UA Drama  History  Thriller 8 72 189  min 160335
+Billy Elliot ‐2000 UA Drama  Music ' ‐ 7.7 74 110  min 137515
+Gully Boy ‐2019 UA Drama  Music  Romance 7.9 65 154  min 40882
+The Fathe r(I) (2020) UA Drama  Mystery ' ‐ 8.2 88 97  min 162206
+Citizen Kan‐1941 UA Drama  Mystery ' ‐ 8.3 100 119  min 446885
+Atonemen ‐2007 UA Drama  Mystery  Romance 7.8 85 123  min 284552
+Donnie Da‐2001 UA Drama  Mystery  Sci‐Fi 8 88 113  min 812344
+Arrival (II)  (2016) UA Drama  Mystery  Sci‐Fi 7.9 81 116  min 709209
+Das weiße ‐2009 UA Drama  Mystery  Thriller 7.8 82 144  min 74957
+The Game ‐1997 UA Drama  Mystery  Thriller 7.7 63 129  min 404807
+Der Name ‐1986 UA Drama  Mystery  Thriller 7.7 54 130  min 111008
+Mulhollan d‐2001 UA Drama  Mystery  Thriller 7.9 86 147  min 363045
+Chinatow n‐1974 UA Drama  Mystery  Thriller 8.2 92 130  min 331557
+The Fault in‐2014 UA Drama  Romance ' ‐ 7.7 69 126  min 383582
+Call Me by ‐2017 UA Drama  Romance ' ‐ 7.8 94 132  min 282809
+Forrest Gu‐1994 UA Drama  Romance ' ‐ 8.8 82 142  min 2109349
+Titanic ‐1997 UA Drama  Romance ' ‐ 7.9 75 194  min 1205377
+Eternal Sun‐2004 UA Drama  Romance  Sci‐Fi 8.3 89 108  min 1021184
+Gattaca ‐1997 UA Drama  Sci‐Fi Thriller 7.8 64 106  min 309533
+Ex Machin a‐2014 UA Drama  Sci‐Fi Thriller 7.7 78 108  min 555140
+Gravity ‐2013 UA Drama  Sci‐Fi Thriller 7.7 96 91  min 835556The Butte r‐2004 UA Drama  Sci‐Fi Thriller 7.6 30 113  min 497371
+Million Dol‐2004 UA Drama  Sport ' ‐ 8.1 86 132  min 694610
+The Wrest l‐2008 UA Drama  Sport ' ‐ 7.9 80 109  min 310729
+Forushand ‐2016 UA Drama  Thriller ' ‐ 7.7 85 124  min 61785
+Platoon ‐1986 UA Drama  War ' ‐ 8.1 92 120  min 419749
+Full Metal J‐1987 UA Drama  War ' ‐ 8.3 78 116  min 751418
+The Hobbi t‐2013 UA Fantasy ' ‐ '‐ 7.8 66 161  min 673357
+The Hobbi t‐2012 UA Fantasy ' ‐ '‐ 7.8 58 169  min 838072
+Kahaani ‐2012 UA Mystery  Thriller ' ‐ 8.1 '‐ 122 min 63692
+Memento ‐2000 UA Mystery  Thriller ' ‐ 8.4 81 113  min 1252090
+The Outla w‐1976 UA Western ' ‐ '‐ 7.8 69 135  min 75658
+Sardar Udh‐2021 UA 13+ Biography  Crime  Drama 8.4 ' ‐ 164 min 43555
+Thirteen Li‐2022 UA 16+ Action  Adventur e Biograph y 7.8 66 147  min 58273
+Dil Chahta ‐2001 Unrated Comedy  Drama  Romance 8.1 ' ‐ 183 min 73359gross_earning
+'‐
+$1.03M'‐
+$4.91M$0.98M$0.00M'‐
+'‐
+'‐
+'‐
+'‐
+$0.10M#45'‐
+'‐
+'‐
+$5.45M'‐
+'‐
+$5.01M$10.00M'‐
+$0.18M'‐
+'‐
+'‐
+$0.02M$0.10M'‐
+$0.20M$11.80M$20.05M$44.53M$0.28M$1.44M'‐
+'‐
+'‐
+'‐
+'‐
+$0.58M$1.77M$18.25M$30.18M$40.08M$56.70M$2.65M
+$5.45M'‐
+$0.17M'‐
+'‐
+'‐
+$0.16M$0.20M$0.30M$10.55M$4.66M$45.70M'‐
+'‐
+$0.29M'‐
+$4.74M$2.54M'‐
+'‐
+$4.36M#227'‐
+$0.04M'‐
+'‐
+'‐
+'‐
+$5.72M$1.09M'‐
+#86$0.23M'‐
+$0.06M$0.11M$0.14M$0.37M$5.08M$2.11M$6.54M'‐
+$0.03M'‐
+'‐
+'‐'‐
+'‐
+'‐
+$0.01M$0.01M$0.02M$0.05M$0.06M$0.07M$0.07M$0.17M$0.28M$0.31M$0.50M$0.74M$0.75M$1.19M$2.85M#235'‐
+$1.96M'‐
+$0.30M#59$3.97M$9.46M'‐
+$4.36M$4.36M'‐
+$0.05M'‐
+$0.63M'‐
+$4.36M$0.18M$10.90M$0.03M$0.11M'‐
+'‐
+$0.09M$0.10M$0.19M$0.54M$1.14M$13.34M$2.60M
+$23.65M$30.50M$1.24M'‐
+#243'‐
+$0.06M$0.08M$0.14M$0.17M'‐
+$12.54M'‐
+'‐
+'‐
+'‐
+'‐
+$4.08M$102.52M#107'‐
+$32.57M$75.61M'‐
+$96.52M$2.83M$176.04M'‐
+$7.00M'‐
+$15.32M'‐
+'‐
+$5.54M$171.24M'‐
+'‐
+$5.88M$35.01M$3.11M$88.51M$74.28M$26.40M'‐
+'‐
+$6.86M$3.76M
+$0.01M#178$1.53M$0.69M$7.10M$248.16M$128.26M$72.86M'‐
+$41.00M$183.64M$50.87M$59.74M$100.01M$47.21M$51.08M$12.06M'‐
+'‐
+$3.90M$36.47M$23.64M$15.63M$19.50M$25.00M$46.89M$53.61M$67.44M$70.10M$76.63M$132.07M'‐
+$145.00M$2.63M$35.90M$4.11M$66.21M$210.61M$35.06M$108.64M$0.71M$107.51M$226.28M$35.55M'‐
+'‐$14.50M
+$176.24M$171.48M$204.84M$38.40M$115.65M$0.03M$83.01M$30.00M$32.53M$57.37M$120.54M$260.00M$6.10M'‐
+$52.04M$0.78M$116.90M$70.26M$130.16M$164.62M$29.80M$35.74M$41.91M$45.06M$46.84M$17.61M$34.70M$56.67M$67.21M$75.60M$96.90M$75.33M$23.38M$136.03M$121.46M$86.30M$54.51M'‐
+$142.50M$19.52M$42.34M$52.36M$45.51M'‐
+$151.10M$0.01M$104.95M
+$132.09M$148.48M$6.15M$5.92M$39.20M$0.28M$119.50M$0.33M$107.93M$134.97M$16.22M$2.08M$2.20M$28.26M$42.44M$45.60M$5.32M$57.30M$57.50M$7.56M$0.65M$7.63M$15.07M'‐
+#234$100.13M$20.30M$23.34M$34.60M$54.12M$56.12M$61.00M$64.62M$8.55M$90.14M$12.28M$104.45M$130.74M$132.38M$16.06M$3.31M$32.38M$335.45M$36.95M$76.27M$9.60M$6.21M
+$0.01M$24.61M$74.10M'‐
+'‐
+'‐
+$1.53M$1.66M$1.74M$112.00M$13.62M$16.50M$17.57M$25.38M$28.34M$3.64M$37.03M$4.97M$40.22M$44.79M$8.00M#200'‐
+$22.24M$36.40M'‐
+$44.02M$11.40M'‐
+$40.46M$4.05M$13.09M$37.82M$42.77M$215.29M$11.90M$11.29M$167.77M$293.51M$0.03M$2.20M$5.82M$71.52M$81.00M$83.04M$25.57M$2.01M
+$111.72M$8.28M'‐
+'‐
+$106.95M$5.38M$53.37M$61.28M#92$4.40M'‐
+#134#60$216.54M$48.98M$101.16M$162.81M$14.38M$2.62M$232.91M$13.78M$32.00M$56.00M$0.09M$47.00M$5.10M$3.20M$57.14M$128.01M$17.55M$0.02M$8.82M$0.08M$0.13M$0.06M'‐
+$5.21M$0.19M$21.85M$35.81M'‐
+$2.81M$27.28M$0.31M$0.05M$0.26M'‐
+$3.98M'‐
+$5.62M$0.86M$1.34M'‐
+$32.48M$1.75M#21$0.93M$25.51M$7.00M$4.45M$0.29M$37.71M$5.99M'‐
+$3.24M$3.64M$3.36M$6.74M$56.82M$2.24M$0.68M$1.50M$15.54M$4.41M$1.05M$1.33M$9.03M$324.59M'‐
+$26.95M$363.07M'‐
+$0.01M$1.11M$159.23M$2.28M$2.89M'‐
+$53.27M$27.30M$161.20M$0.87M$51.97M$10.82M
+$0.00M$7.76M$0.35M$2.02M$22.25M$6.11M$22.86M$3.03M'‐
+$4.06M$1.06M$3.33M$0.18M$17.27M$4.50M$6.72M$0.09M$0.55M$10.10M$10.73M$33.80M$1.22M$17.11M$22.49M$26.86M'‐
+$0.41M$1.01M$1.65M$13.06M$24.48M$3.49M$4.04M$4.89M$5.60M$8.26M$2.12M$2.00M$0.00M$37.63M$0.44M$3.19M$5.22M$9.44M$6.39M$9.28M$5.01M
+$83.47M'‐
+$2.38M$8.11M$23.09M$0.14M$1.08M$11.49M$78.90M$197.17M'‐
+$57.23M$315.54M$377.85M$309.13M$322.74M$380.26M$13.28M$78.91M$85.16M$936.66M$45.30M$12.39M'‐
+'‐
+$183.88M$2.49M'‐
+$0.27M$39.10M'‐
+'‐
+#145$4.14M'‐
+#246$16.78M$18.35M$44.82M$45.51M$30.86M$40.44M$61.50M$1.23M$118.50M$210.61M$52.29M
+$74.70M$93.74M$124.99M$66.26M$12.10M$173.84M$0.54M#193$7.06M#190$44.91M'‐
+$184.21M$2.08M$249.36M$317.58M$38.63M$435.11M$33.40M$56.95M'‐
+$177.00M$190.24M$2.38M$215.43M$217.58M$222.53M$23.16M$257.76M$261.44M$48.02M$1.00M'‐
+'‐
+'‐
+$120.62M$141.84M$15.09M$156.45M$168.46M$189.42M$191.80M$200.82M$206.45M$209.73M$21.00M$217.35M
+$245.85M$251.51M$267.67M$289.92M$293.00M$32.02M$341.27M$356.46M$380.84M$415.00M$434.04M$422.78M'‐
+$10.06M$184.93M$223.81M$4.71M$0.50M#199$1.11M'‐
+'‐
+$0.31M$0.77M$1.51M$75.29M$0.88M$5.02M#44'‐
+$218.97M$75.08M$76.41M$0.19M$5.89M$102.31M$50.00M$14.74M$163.57M$2.09M$2.27M$51.74M$52.10M$6.20M#232$163.21M$51.68M
+$138.80M$18.59M$22.28M$26.83M$28.35M$43.98M$48.17M$52.77M$119.52M$35.89M$1.63M$1.78M$115.65M$5.13M$61.70M$3.15M$70.14M$83.40M'‐
+$78.76M$0.60M$159.60M$2.50M$30.93M'‐
+'‐
+$125.62M$13.42M$27.55M$4.94M$9.60M$95.86M$1.67M$32.42M$0.92M$70.91M$1.79M$3.11M$0.41M$18.60M$2.22M$2.80M$44.67M$57.60M$20.61M$285.76M$102.27M
+$10.63M$25.00M$13.47M'‐
+$33.23M#110#240$0.34M$4.36M$4.18M$0.10M$8.18M$0.24M'‐
+'‐
+'‐
+#207$0.06M$0.30M$0.33M$0.54M$0.73M$106.26M$178.80M$2.18M$40.31M$54.00M$54.80M$82.42M$9.17M$98.47M$1.22M$132.42M$2.92M$72.00M$80.50M$1.11M$3.33M$56.36M'‐
+$10.46M'‐
+$70.60M'‐
+'‐
+'‐$1.32M
+'‐
+$1.22M$0.07M'‐
+$4.04M$6.17M'‐
+$0.37M$53.09M$24.38M$4.42M'‐
+'‐
+'‐
+#186$108.10M$11.99M$138.43M$2.00M$2.73M$22.95M$29.13M$38.41M$4.23M$43.18M$1.02M$198.68M'‐
+$0.23M$9.93M$117.24M$14.68M$141.34M$9.45M$21.75M$22.24M$3.27M$4.54M'‐
+$4.00M$0.45M$36.76M$15.00M$5.32M$220.16M$26.02M$315.06M
+$333.18M$389.81M$8.18M'‐
+'‐
+$108.33M$128.08M$13.76M$14.50M$187.71M$208.55M$342.55M$53.71M$54.23M$75.51M$858.37M$290.48M$305.41M$659.68M$760.51M$804.75M$100.21M$12.47M$154.06M$228.78M$233.92M$257.73M$259.77M$292.58M$318.41M$402.45M$532.18M$63.54M$678.82M$167.45M$304.36M$0.04M$107.10M'‐
+$117.62M$93.62M$48.07M$17.11M$238.63M'‐
+'‐'‐
+'‐
+$0.17M$0.90M$206.85M$369.35M$534.86M$6.60M$77.91M$53.42M'‐
+'‐
+$65.21M$7.27M'‐
+$111.11M$20.19M$6.74M$718.73M'‐
+$1.53M$188.37M$31.57M$4.19M$92.05M$32.87M$70.51M$13.66M$448.14M$121.66M$227.47M$146.41M$408.08M$623.28M$21.50M$59.10M'‐
+$1.43M$5.20M$233.63M$4.02M$188.02M$228.43M$290.01M$295.98M$381.01M'‐$47.70M
+$0.52M$0.55M$0.13M$6.74M$13.18M$85.08M$25.01M'‐
+#155$170.74M$96.96M$169.61M$23.53M$5.51M$56.51M$216.43M$61.65M$255.96M$28.97M$91.13M$277.32M$17.50M$30.33M$52.93M$10.60M$165.36M$2.20M'‐
+$1.66M$44.59M$45.88M$59.89M$6.53M$0.90M$17.11M$32.39M$92.82M$10.62M$33.37M$13.54M$0.17M$136.80M'‐
+'‐
+$0.01M$0.34M$0.74M
+$33.08M$141.32M$1.08M$1.24M$16.29M$54.58M$1.37M$183.42M'‐
+#219$0.01M$0.26M$0.54M$130.10M$148.10M$169.71M$17.65M$17.74M$22.46M$47.70M$6.74M$63.90M$69.95M$77.32M$127.51M$70.41M$22.00M$5.57M#130$1.59M$50.93M$1.48M$100.55M$2.22M$48.32M$7.15M$7.22M$8.49M$124.87M$18.10M$330.25M$659.33M$34.40M$12.34M$25.44M$274.09M$57.94M
+$100.49M$26.24M$2.40M$138.53M$46.36M$258.37M$303.00M$1.04M$25.54M$31.80M'‐
+'‐
+$0.30M

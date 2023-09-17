@@ -1,0 +1,29 @@
+[
+    {"name":"bukky",
+    "age": 21,
+    "school":"cyclobold"},
+
+    {"name":"ire",
+    "age": 22,
+    "school":"uniIbadan"},
+
+    {"name":"tobex",
+    "age": 23,
+    "school":"unijos"},
+
+    {"name":"abby",
+    "age": 24,
+    "school":"OAU"},
+
+    {"name":"john",
+    "age": 25,
+    "school":"unilag"},
+
+    {"name":"Ruth",
+    "age": 26,
+    "school":"uniport"},
+
+    {"name":"joshua",
+    "age": 26,
+    "school":"uniben"}
+]
